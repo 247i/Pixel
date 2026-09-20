@@ -2,18 +2,18 @@
 # 
 # This is your personal gimprc file.  Any variable defined in this file takes
 # precedence over the value defined in the system-wide gimprc:
-# C:\அறிவிலி\WinTools\படகருவிகள்\குபகைதி\குபகைதி\App\gimp\etc\gimp\2.0\gimprc
+# D:\Pixel\GIMP\App\gimp\etc\gimp\2.0\gimprc
 # Most values can be set within GIMP by changing some options in the
 # Preferences dialog.
 
 (language "ta")
-(font-path "C:\\அறிவிலி\\WinTools\\படகருவிகள்\\குபகைதி\\குபகைதி\\Data\\.gimp\\fonts;C:அறிவிலிWinToolsபடகருவிகள்\\தமிழ்\\PortableApps\\PortableApps.com\\Data\\Fonts")
+(font-path "D:\\Pixel\\GIMPுபகைதி\\Data\\.gimp\\fonts;C:அறிவிலிWinToolsபடகருவிகள்\\தமிழ்\\PortableApps\\PortableApps.com\\Data\\Fonts")
 (import-raw-plug-in "${gimp_plug_in_dir}\\plug-ins\\file-raw-placeholder\\file-raw-placeholder.exe")
-(check-update-timestamp 1691897260)
-(last-release-timestamp 1677456000)
-(last-known-release "2.10.34")
-(monitor-xresolution 105)
-(monitor-yresolution 105)
+(check-update-timestamp 1789915821)
+(last-release-timestamp 1788998400)
+(last-known-release "3.2.6")
+(monitor-xresolution 138)
+(monitor-yresolution 137)
 (fill-options
     (style solid)
     (antialias yes)
