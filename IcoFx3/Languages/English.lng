@@ -1,0 +1,2650 @@
+﻿[General]
+# The translator of the language file
+Author=Attila Kovrig
+# The web site of the translator (can be left empty if not applicable)
+WebAddress=https://icofx.ro
+# Language name in English
+LanguageName=English
+# Localized language name
+LocalizedLanguageName=English
+# Comment of the translator
+Comment=English language file for IcoFX
+# Ignore accents during search
+IgnoreAccents=false
+
+[frmMain]
+actArrangeTabs.Caption=Consolidate All to Tabs
+actArrangeTileHoriz.Caption=2-up Horizontal
+actArrangeTileVert.Caption=2-up Vertical
+actArrangeTileHoriz3.Caption=3-up Horizontal
+actArrangeTileVert3.Caption=3-up Vertical
+actAbout.Caption=About...
+actExit.Caption=Exit
+actClose.Caption=Close
+actCloseAll.Caption=Close All
+actHelp.Caption=IcoFX Help
+actTutorials.Caption=Tutorials
+actHomePage.Caption=IcoFX Home Page
+actBuy.Caption=Purchase Full Version
+actObjectPacks.Caption=Purchase Image Objects
+actWelcome.Caption=Welcome Window...
+actUpdate.Caption=Check For Updates...
+actPreferences.Caption=Preferences...
+actDeleteWorkspace.Caption=Delete Workspace
+actToolbar.Caption=Main Toolbar
+actSaveWorkspace.Caption=Save Workspace...
+actLocalToolbar.Caption=Local Toolbar
+actStatusbar.Caption=Status Bar
+actDefaultWorkspace.Caption=Default
+actPanelColors.Caption=Colors
+actPanelPalette.Caption=Palette
+actPanelSwatches.Caption=Swatches
+actPanelPreview.Caption=Preview
+actPanelInfo.Caption=Info
+actPanelTools.Caption=Tools
+actPanelLayers.Caption=Layers
+actPanelHistogram.Caption=Histogram
+actPanelHistory.Caption=History
+actPanelGradients.Caption=Gradients
+actPanelBrushes.Caption=Brushes
+actPanelToolProperties.Caption=Tool Properties
+actPanelExplorer.Caption=Explorer
+actShortcuts.Caption=Keyboard Shortcuts...
+actRegister.Caption=Register...
+actNewIcon.Caption=New Icon...
+actNewIcon.Hint=New Icon...
+actNewImage.Caption=New Image...
+actNewImage.Hint=New Image...
+actNewCursor.Caption=New Cursor...
+actNewCursor.Hint=New Cursor...
+actGrid.Caption=Grid
+actGrid.Hint=Show/Hide Grid
+actOpen.Caption=Open...
+actOpen.Hint=Open...
+actSave.Caption=Save
+actSave.Hint=Save
+actSaveAs.Caption=Save As...
+actCapture.Caption=Capture...
+actExtract.Caption=Extract...
+actClear.Caption=Clear
+actSelectLanguage.Caption=Select Language...
+actUndo.Caption=Undo
+actUndo.Hint=Undo
+actRedo.Caption=Redo
+actRedo.Hint=Redo
+actDelete.Caption=Delete
+actDelete.Hint=Delete
+actCut.Caption=Cut
+actCut.Hint=Cut
+actCopy.Caption=Copy
+actCopy.Hint=Copy
+actPaste.Caption=Paste
+actPaste.Hint=Paste
+actPasteNew.Caption=Paste As New Image
+actPasteLayer.Caption=Paste As New Layer
+actSelAll.Caption=Select All
+actSelNone.Caption=Deselect
+actSelNone.Hint=Deselect
+actSelInvert.Caption=Invert Selection
+actSelFit.Caption=Fit To Canvas
+actSelOrig.Caption=Original Size
+actSelToFront.Caption=Bring To Front
+actSelToBack.Caption=Send To Back
+actHue.Caption=Hue and Saturation...
+actLevels.Caption=Levels...
+actCurves.Caption=Curves...
+actLast.Caption=Last Effect (None)
+actBatchIcon.Caption=Batch Create Icons or Cursors...
+actBatchImage.Caption=Batch Create Images...
+actBatchExtract.Caption=Batch Extract Icons or Cursors...
+actBatchProcess.Caption=Batch Process...
+actResEditIcl.Caption=Icon Resource Editor...
+actZoomIn.Caption=Zoom In
+actZoomIn.Hint=Zoom In
+actZoomOut.Caption=Zoom Out
+actZoomOut.Hint=Zoom Out
+actFitScreen.Caption=Fit To Screen
+actActualPixels.Caption=Actual Pixels
+actSideBar.Caption=Side Bar
+actAutoZoom.Caption=Automatic Zoom
+actContrast.Caption=Brightness and Contrast...
+actColBalance.Caption=Color Balance...
+actCustomFilter.Caption=Custom Filter...
+actEmbossColor.Caption=Emboss Color
+actEmbossLight.Caption=Emboss Light
+actEmboss.Caption=Emboss
+actEmbossDark.Caption=Emboss Dark
+actAverage.Caption=Average
+actGaussBlur.Caption=Gaussian Blur...
+actBevel.Caption=Bevel...
+actBlur.Caption=Blur
+actBlurSoft.Caption=Blur Soft
+actBlurMore.Caption=Blur More
+actMotionBlur.Caption=Motion Blur
+actSharpen.Caption=Sharpen
+actSharpenLess.Caption=Sharpen Less
+actSharpenMore.Caption=Sharpen More
+actSharpenDir.Caption=Sharpen Directional
+actFindEdgesVert.Caption=Find Edges (Vertical)
+actFindEdgesHoriz.Caption=Find Edges (Horizontal)
+actEnhanceEdges.Caption=Enhance Edges
+actDetectEdges.Caption=Detect Edges
+actEdgesStrong.Caption=Edges Strong
+actEdgesWeak.Caption=Edges Weak
+actContour.Caption=Contour
+actNoise.Caption=Add Noise...
+actGlow.Caption=Glow
+actWaggle.Caption=Waggle
+actPattern.Caption=Pattern
+actPaintDark.Caption=Paint Dark
+actPaintBright.Caption=Paint Bright
+actShake.Caption=Shake
+actShakeLess.Caption=Shake Less
+actPale.Caption=Pale
+actScene.Caption=Scene
+actGrayscale.Caption=Grayscale
+actInvert.Caption=Invert
+actRed.Caption=Red
+actGreen.Caption=Green
+actBlue.Caption=Blue
+actYellow.Caption=Yellow
+actCyan.Caption=Cyan
+actMagenta.Caption=Magenta
+actSwapRG.Caption=Swap Red-Green
+actSwapRB.Caption=Swap Red-Blue
+actSwapGB.Caption=Swap Green-Blue
+actHotSpot.Caption=Hot Spot...
+actTestCursor.Caption=Test Cursor...
+actAuthor.Caption=Author and Name...
+actFrameRate.Caption=Frame Rate...
+actDuplicateFrame.Caption=Duplicate Frame
+actFrameUp.Caption=Move Frame Up
+actFrameDown.Caption=Move Frame Down
+actFrameReverse.Caption=Reverse Frames
+actDropShadow.Caption=Drop Shadow
+actNew.Caption=Add New Image...
+actNew.Hint=Add New Image...
+actDel.Caption=Delete Image
+actDel.Hint=Delete Image
+actImageManager.Caption=Image Manager...
+actImportImage.Caption=Import Image...
+actImportImage.Hint=Import Image...
+actNext.Caption=Next Image
+actPrev.Caption=Previous Image
+actDuplicate.Caption=Duplicate
+actCreateWinIco.Caption=Create Windows Icon From Image...
+actCreateWinIco.Hint=Create Windows Icon From Image...
+actCreateMacIco.Caption=Create Macintosh Icon From Image...
+actCreateMacIco.Hint=Create Macintosh Icon From Image...
+actCreateCur.Caption=Create Cursor From Image...
+actCreateCur.Hint=Create Cursor From Image...
+actSnapshot.Caption=Create Snapshot...
+actProperties.Caption=Properties...
+actOpacity.Caption=Opacity...
+actFade.Caption=Fadeout...
+actShadow.Caption=Shadow...
+actTransp.Caption=Transparent Color...
+actSize.Caption=Image Size...
+actCanvasSize.Caption=Canvas Size...
+actRotate.Caption=Rotate...
+actRotateLeft.Caption=Rotate Left 90°
+actRotateRight.Caption=Rotate Right 90°
+actRotate180.Caption=Rotate 180°
+actFlipHoriz.Caption=Flip Horizontal
+actFlipVert.Caption=Flip Vertical
+act32Bits.Caption=True Colors + Alpha (32 bits)
+act24Bits.Caption=True Colors (24 bits)
+act8Bits.Caption=Optimized 256 Colors (8 bits)
+act4Bits.Caption=Optimized 16 Colors (4 bits)
+actWin4Bits.Caption=16 Colors (4 bits)
+act1Bit.Caption=Optimized 2 Colors (1 bit)
+actWin1Bit.Caption=2 Colors (1 bit)
+actNewIcl.Caption=New Icon Library...
+actNewCul.Caption=New Cursor Library...
+actResEditCul.Caption=Cursor Resource Editor...
+actAntialiasing.Caption=Antialiasing On/Off
+actAntialiasing.Hint=Antialiasing On/Off
+actSelTrans.Caption=Transparent Selection
+actSelTrans.Hint=Preserve the transparency of the selection
+actFilterAlpha.Caption=Apply Filter to Alpha Channel
+actFilterAlpha.Hint=Apply filter to alpha channel
+actExpand.Caption=Expand Canvas...
+actTrim.Caption=Trim...
+actLocalSidebar.Caption=Local Side Bar
+actLocalSidebar.Hint=Show/Hide Side Bar
+actIconCustomization.Caption=Icon Customization...
+actIconCustomization.Hint=Icon Customization...
+actSaveSelection.Caption=Save Selection...
+actLoadSelection.Caption=Load Selection...
+dlgOpen.Title=Open
+dlgSave.Title=Save As
+dlgExtract.Title=Extract
+dlgImport.Title=Open Image
+actAdjustAll.Caption=Apply Adjustments to All Layers/Images
+actAdjustAll.Hint=Apply adjustments to all layers/images
+actUndoAll.Caption=Undo On All Layers/Images
+actRedoAll.Caption=Redo On All Layers/Images
+actReplace.Caption=Replace Color...
+actReplacePixels.Caption=Replace Pixels...
+actNewToolbar.Caption=New Toolbar Image Strip...
+actNewToolbar.Hint=New Toolbar Image Strip...
+actToolbarTranspCol.Caption=Transparent Color...
+actDuplicateImage.Caption=Duplicate Image
+actImageUp.Caption=Move Image Up
+actImageDown.Caption=Move Image Down
+actReverseImages.Caption=Reverse Images
+actCopyMerged.Caption=Copy Merged
+actCopyMerged.Hint=Copy Merged
+actRuler.Caption=Ruler
+actRuler.Hint=Ruler
+actPanelActions.Caption=Actions
+actSearch.Caption=Search...
+edtSearch.TextHint=Search...
+actDelShortcuts.Caption=Delete Shortcuts
+actSummarize.Caption=Summarize...
+actDefaultShortcuts.Caption=Default
+lblTrialInfo.Caption=TRIAL INFORMATION
+actReplaceImage.Caption=Replace Image...
+actReplaceImage.Hint=Replace Image...
+actNewMacIcon.Caption=New Mac Icon...
+actNewMacIcon.Hint=New Mac Icon...
+actFullScreen.Caption=Full Screen
+actBatchGroup.Caption=Batch Group Images to Icons...
+actPanelStyles.Caption=Styles
+actScript.Caption=Run Script...
+actMobileIcon.Caption=Create Mobile Icon...
+actMobileIcon.Hint=Create Mobile Icon...
+actCreateMobileIcon.Caption=Create Mobile Icon From Icon...
+actCreateMobileIcon.Hint=Create Mobile Icon From Icon...
+actWhiteBalance.Caption=White Balance...
+actWhiteBalance.Hint=White Balance...
+actRoundCorners.Caption=Corner Rounding...
+actRoundCorners.Hint=Corner Rounding...
+actIconMixer.Caption=Icon Mixer...
+actIconMixer.Hint=Icon Mixer...
+actSaveCopy.Caption=Save a Copy...
+actSaveCopy.Hint=Save a Copy...
+actPanelShapes.Caption=Shapes
+actCopyBase64.Caption=Copy Image as Base64
+actGetFavicon.Caption=Get Favicon
+
+[Menu]
+1-0.Menu=File
+2-0.Menu=New
+3-2.Menu=Open Recent
+4-1.Menu=Edit
+5-2.Menu=Selection
+6-3.Menu=Effects
+7-2.Menu=Colors
+8-3.Menu=Emboss
+9-4.Menu=Blur
+10-5.Menu=Sharpen
+11-6.Menu=Edges
+12-4.Menu=Adjustments
+13-20.Menu=Rotate/Flip
+14-22.Menu=Data Type
+15-5.Menu=Image
+16-10.Menu=Cursor
+17-11.Menu=Animation
+18-12.Menu=Image Strip
+19-6.Menu=Options
+20-2.Menu=Languages
+21-7.Menu=Tools
+22-8.Menu=View
+23-9.Menu=Window
+24-0.Menu=Arrange
+25-1.Menu=Toolbars And Panels
+26-2.Menu=Workspace
+27-3.Menu=Keyboard Shortcuts
+28-10.Menu=Help
+
+[frmColors]
+frmColors.Caption=Colors
+lblAlpha.Caption=A
+btnDefault.Hint=Default Foreground and Background Colors
+btnSwitch.Hint=Switch Foreground and Background Colors
+btnTransparent.Hint=Make Selected Color Transparent
+GraySliders.Caption=K
+HSBSliders.Item1=H
+HSBSliders.Item2=S
+HSBSliders.Item3=B
+colBG.Hint=Background Color
+colFG.Hint=Foreground Color
+RGBSliders.Item1=R
+RGBSliders.Item2=G
+RGBSliders.Item3=B
+actGraySlider.Caption=Grayscale Slider
+actRGBSliders.Caption=RGB Sliders
+actHSBSliders.Caption=HSB Sliders
+actCopyHtml.Caption=Copy HTML Color
+actPasteHtml.Caption=Paste HTML Color
+actDefaultColors.Caption=Default Foreground and Background Colors
+actSwitchColors.Caption=Switch Foreground and Background Colors
+actFGTransparent.Caption=Make Foreground Color Transparent
+actBGTransparent.Caption=Make Background Color Transparent
+actTransparent.Caption=Make Selected Color Transparent
+
+[frmPalette]
+frmPalette.Caption=Palette
+imgTransparent.Hint=Transparent Color
+actNormalPalette.Caption=Normal Palette
+actPalePalette.Caption=Pale Palette
+actGrayPalette.Caption=Gray Palette
+actLoadPalette.Caption=Load Palette
+actSavePalette.Caption=Save Palette
+dlgOpen.Title=Load Palette
+dlgSave.Title=Save Palette
+
+[frmSwatches]
+frmSwatches.Caption=Swatches
+dlgSave.Title=Save Swatches
+dlgOpen.Title=Open Swatches
+actNew.Caption=New Swatch
+actNew.Hint=New Swatch
+actSmallThumb.Caption=Small Thumbnail
+actMediumThumb.Caption=Medium Thumbnail
+actLargeThumb.Caption=Large Thumbnail
+actSmallList.Caption=Small List
+actMediumList.Caption=Medium List
+actLargeList.Caption=Large List
+actDelete.Caption=Delete Swatch
+actDelete.Hint=Delete Swatch
+actEdit.Caption=Edit Swatch...
+actEdit.Hint=Edit Swatch...
+actSave.Caption=Save Swatches...
+actSave.Hint=Save Swatches...
+actLoad.Caption=Load Swatches...
+actLoad.Hint=Load Swatches...
+actClear.Caption=Clear Swatches
+actDefault.Caption=Reset Swatches
+actHTML.Caption=Copy Color as HTML
+actReorder.Caption=Allow reordering
+
+[frmPreview]
+frmPreview.Caption=Preview
+imgBKColors.Hint=Background Colors
+actBox.Caption=Show View Box
+actBKColor.Caption=Change Background Color...
+
+[frmInfo]
+frmInfo.Caption=Info
+lblPosX.Caption=X :
+lblPosY.Caption=Y :
+lblHue.Caption=H :
+lblSat.Caption=S :
+lblBright.Caption=B :
+lblRed.Caption=R :
+lblGreen.Caption=G :
+lblBlue.Caption=B :
+lblAnchorX.Caption=X :
+lblAnchorY.Caption=Y :
+lblWidth.Caption=W :
+lblHeight.Caption=H :
+lblAngle.Caption=A :
+lblLength.Caption=L :
+
+[frmLayers]
+frmLayers.Caption=Layers
+lblMode.Caption=Mode
+lblOpac.Caption=Opacity
+dlgOpen.Title=Import Image
+actNewLayer.Caption=New Layer
+actNewLayer.Hint=Add New Layer
+actDeleteLayer.Caption=Delete Layer
+actDeleteLayer.Hint=Delete Layer
+actDuplicateLayer.Caption=Duplicate Layer
+actDuplicateLayer.Hint=Duplicate Layer
+actMoveUp.Caption=Move Layer Up
+actMoveUp.Hint=Move Layer Up
+actMoveDown.Caption=Move Layer Down
+actMoveDown.Hint=Move Layer Down
+actMergeDown.Caption=Merge Down
+actMergeDown.Hint=Merge Down
+actFlatten.Caption=Flatten Image
+actFlatten.Hint=Flatten Image
+actProperties.Caption=Layer Properties...
+actProperties.Hint=Layer Properties...
+actSmall.Caption=Small List
+actMedium.Caption=Medium List
+actLarge.Caption=Large List
+actNoThumb.Caption=Text Only List
+actImport.Caption=Import From File...
+actImport.Hint=Import From File...
+actSelectLayer.Caption=Select Layer
+
+[frmBrushes]
+frmBrushes.Caption=Brushes
+dlgOpen.Title=Open Brushes
+dlgSave.Title=Save Brushes
+actSmallThumb.Caption=Small Thumbnail
+actMediumThumb.Caption=Medium Thumbnail
+actLargeThumb.Caption=Large Thumbnail
+actSmallList.Caption=Small List
+actMediumList.Caption=Medium List
+actLargeList.Caption=Large List
+actTextOnly.Caption=Text Only
+actNew.Caption=New Brush...
+actNew.Hint=New Brush...
+actDelete.Caption=Delete Brush
+actDelete.Hint=Delete Brush
+actEdit.Caption=Edit Brush...
+actEdit.Hint=Edit Brush...
+actDuplicate.Caption=Duplicate Brush
+actDuplicate.Hint=Duplicate Brush
+actLoad.Caption=Load Brushes...
+actLoad.Hint=Load Brushes...
+actSave.Caption=Save Brushes...
+actSave.Hint=Save Brushes...
+actClear.Caption=Clear Brushes
+actDefault.Caption=Reset Brushes
+actReorder.Caption=Allow reordering
+
+[frmGradients]
+frmGradients.Caption=Gradients
+dlgOpen.Title=Open Gradients
+dlgSave.Title=Save Gradients
+actNew.Caption=New Gradient...
+actNew.Hint=New Gradient...
+actSmallThumb.Caption=Small Thumbnail
+actMediumThumb.Caption=Medium Thumbnail
+actLargeThumb.Caption=Large Thumbnail
+actSmallList.Caption=Small List
+actMediumList.Caption=Medium List
+actLargeList.Caption=Large List
+actTextOnly.Caption=Text Only
+actClear.Caption=Clear Gradients
+actDelete.Caption=Delete Gradient
+actDelete.Hint=Delete Gradient
+actEdit.Caption=Edit Gradient...
+actEdit.Hint=Edit Gradient...
+actSave.Caption=Save Gradients...
+actSave.Hint=Save Gradients...
+actLoad.Caption=Load Gradients...
+actLoad.Hint=Load Gradients...
+actDefault.Caption=Reset Gradients
+actDuplicate.Caption=Duplicate Gradient
+actDuplicate.Hint=Duplicate Gradient
+actReorder.Caption=Allow reordering
+
+[frmExplorer]
+frmExplorer.Caption=Explorer
+pnlEmpty.Caption=No images in folder
+actRefresh.Caption=Refresh
+actRefresh.Hint=Refresh
+actNames.Caption=Names
+actNames.Hint=Show/hide file names
+actFavorites.Caption=Favorites
+actFavorites.Hint=Favorite folders
+actAddFavorite.Caption=Add current folder to favorites
+actDelFavorite.Caption=Delete current folder from favorites
+actOpenInExplorer.Caption=Open In Windows Explorer
+actPreferences.Caption=Preferences...
+actCreateIcl.Caption=Create icon library from icons...
+actCreateCul.Caption=Create cursor library from cursors...
+actUp.Caption=Up
+actUp.Hint=Up
+actBatchIcon.Caption=Batch Create Icons or Cursors...
+actBatchImage.Caption=Batch Create Images...
+actBatchExtract.Caption=Batch Extract  Icons or Cursors...
+actBatchProcess.Caption=Batch Process...
+actOpen.Caption=Open
+actCustomize.Caption=Customize Folder Icon...
+actImgToWinIco.Caption=Create Windows icon from image
+actImgToMacIco.Caption=Create Macintosh icon from image
+actImgToCur.Caption=Create cursor from image
+actHome.Caption=Home
+actHome.Hint=Home
+actObjectPacks.Caption=Purchase Image Objects
+actObjectPacks.Hint=Purchase Image Objects
+actBatchGroup.Caption=Batch Group Images to Icons...
+actGroupWin.Caption=Group Images to Windows Icon
+actGroupMac.Caption=Group Images to Macintosh Icon
+
+[frmTools]
+frmTools.Caption=Tools
+btnQuickMask.Hint=Edit in quick mask mode
+actSelRectangle.Caption=Rectangular Selection
+actSelRectangle.Hint=Rectangular Selection
+actSelEllipse.Caption=Elliptical Selection
+actSelEllipse.Hint=Elliptical Selection
+actSelLasso.Caption=Lasso Selection
+actSelLasso.Hint=Lasso Selection
+actMagicWand.Caption=Magic Wand
+actMagicWand.Hint=Magic Wand
+actCrop.Caption=Crop
+actCrop.Hint=Crop
+actMove.Caption=Move
+actMove.Hint=Move
+actBrush.Caption=Brush
+actBrush.Hint=Brush
+actPencil.Caption=Pencil
+actPencil.Hint=Pencil
+actLine.Caption=Line
+actLine.Hint=Line
+actCurve.Caption=Curve
+actCurve.Hint=Curve
+actRectangle.Caption=Rectangle
+actRectangle.Hint=Rectangle
+actEllipse.Caption=Ellipse
+actEllipse.Hint=Ellipse
+actRoundRect.Caption=Rounded Rectangle
+actRoundRect.Hint=Rounded Rectangle
+actCustom.Caption=Custom Shape
+actCustom.Hint=Custom Shape
+actText.Caption=Text
+actText.Hint=Text
+actFill.Caption=Fill
+actFill.Hint=Fill
+actGradient.Caption=Gradient
+actGradient.Hint=Gradient
+actEraser.Caption=Eraser
+actEraser.Hint=Eraser
+actColEraser.Caption=Color Eraser
+actColEraser.Hint=Color Eraser
+actBlur.Caption=Blur
+actBlur.Hint=Blur
+actSharpen.Caption=Sharpen
+actSharpen.Hint=Sharpen
+actBrighten.Caption=Brighten
+actBrighten.Hint=Brighten
+actDarken.Caption=Darken
+actDarken.Hint=Darken
+actColPicker.Caption=Color Picker
+actColPicker.Hint=Color Picker
+actRuler.Caption=Ruler
+actRuler.Hint=Ruler
+actZoom.Caption=Zoom
+actZoom.Hint=Zoom
+actPan.Caption=Hand
+actPan.Hint=Hand
+actFlipHoriz.Caption=Flip Horizontal
+actFlipHoriz.Hint=Flip Horizontal
+actFlipVert.Caption=Flip Vertical
+actFlipVert.Hint=Flip Vertical
+actRotateLeft.Caption=Rotate Left
+actRotateLeft.Hint=Rotate Left
+actRotateRight.Caption=Rotate Right
+actRotateRight.Hint=Rotate Right
+actQuickMask.Caption=Quick Mask
+actQuickMask.Hint=Quick Mask
+btnDefault.Hint=Default Foreground and Background Colors
+btnSwitch.Hint=Switch Foreground and Background Colors
+actDecBrush.Caption=Decrease Brush Size
+actDecBrush.Hint=Decrease Brush Size
+actIncBrush.Caption=Increase Brush Size
+actIncBrush.Hint=Increase Brush Size
+actDefaultColors.Caption=Default Foreground and Background Colors
+actSwitchColors.Caption=Switch Foreground and Background Colors
+actSelTrans.Caption=Transparent Selection
+actPrevBrush.Caption=Previous Brush
+actNextBrush.Caption=Next Brush
+actFirstBrush.Caption=First Brush
+actLastBrush.Caption=Last Brush
+actShapes.Caption=Shapes
+actShapes.Hint=Shapes
+
+[frmHistory]
+frmHistory.Caption=History
+actUndo.Caption=Undo
+actUndo.Hint=Undo
+actRedo.Caption=Redo
+actRedo.Hint=Redo
+actUndoAll.Caption=Undo All
+actUndoAll.Hint=Undo All
+actRedoAll.Caption=Redo All
+actRedoAll.Hint=Redo All
+actClear.Caption=Clear History
+actPreferences.Caption=Preferences...
+
+[frmHistogram]
+frmHistogram.Caption=Histogram
+actRGB.Caption=RGB
+actRed.Caption=Red
+actGreen.Caption=Green
+actBlue.Caption=Blue
+actLuminosity.Caption=Luminosity
+actStatistics.Caption=Statistics
+lblMedian.Caption=Median:
+lblMean.Caption=Mean:
+lblPixels.Caption=Pixels:
+lblDev.Caption=Std. Dev.:
+
+[frmCanvas]
+SideBar.Caption=SideBar
+actColorBlack.Caption=Black
+actColorCustom.Caption=Custom Color...
+actNewImg.Caption=Add New Image...
+actNewImg.Hint=Add New Image...
+actDelImg.Caption=Delete Image
+actDelImg.Hint=Delete Image
+actImportImg.Caption=Import Image...
+actImportImg.Hint=Import Image...
+actZoomOut.Caption=Zoom Out
+actZoomOut.Hint=Zoom Out
+actZoomIn.Caption=Zoom In
+actZoomIn.Hint=Zoom In
+actAutoZoom.Caption=Automatic Zoom
+actAutoZoom.Hint=Automatically Zoom Images
+actLocalSidebar.Caption=Local Sidebar
+actLocalSidebar.Hint=Show/Hide Side Bar
+actLocalGrid.Caption=Local Grid
+actLocalGrid.Hint=Show/Hide Grid
+actHotSpot.Caption=Hot Spot...
+actHotSpot.Hint=Set cursor hot spot
+actTestCursor.Caption=Test Cursor...
+actTestCursor.Hint=Test cursor
+actFrameRate.Caption=Frame Rate...
+actFrameRate.Hint=Set animation frame rate
+actAuthor.Caption=Author and Name...
+actAuthor.Hint=Author and Name
+actTranspCol.Caption=Transparent Color...
+actTranspCol.Hint=Transparent Color
+actCompress.Caption=Compress
+actCompress.Hint=Compress Image for Windows Vista
+actLocalRuler.Caption=Ruler
+actLocalRuler.Hint=Show/Hide Ruler
+actColorDefault.Caption=Default
+actColorGray.Caption=Medium Gray
+actColorDark.Caption=Dark Gray
+actColorLight.Caption=Light Gray
+actGridColorExtraLight.Caption=Extra Light
+actGridColorLight.Caption=Light
+actGridColorMedium.Caption=Medium
+actGridColorDark.Caption=Dark
+actReplaceImg.Caption=Replace Image...
+actReplaceImg.Hint=Replace Image...
+actSmallThumb.Caption=Small Thumbnail
+actMediumThumb.Caption=Medium Thumbnail
+actLargeThumb.Caption=Large Thumbnail
+
+[frmAbout]
+frmAbout.Caption=About
+lblMem.Caption=Memory Available to Windows:
+btnOK.Caption=OK
+TabSheet1.Caption=About
+TabSheet2.Caption=Acknowledgements
+TabSheet3.Caption=License
+TabSheet4.Caption=History
+
+[frmPreferences]
+frmPreferences.Caption=Preferences
+lbCategory.Item0=General
+lbCategory.Item1=Transparency
+lbCategory.Item2=Grid
+lbCategory.Item3=Preview
+lbCategory.Item4=Actions
+lbCategory.Item5=Options
+lbCategory.Item6=Explorer
+lbCategory.Item7=History
+lbCategory.Item8=Quick Mask
+lbCategory.Item9=Associations
+lbCategory.Item10=Update
+lbCategory.Item11=Interface
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+lblAssoc.Caption=Associate the following files with IcoFX:
+lbAssoc.Item0=ico - Windows Icon
+lbAssoc.Item1=icns - Macintosh Icon
+lbAssoc.Item2=icl - Icon Library
+lbAssoc.Item3=cur - Windows Cursor
+lbAssoc.Item4=ani - Animated Cursor
+lbAssoc.Item5=cul - Cursor Library
+lbAssoc.Item6=bmp - Bitmap
+lbAssoc.Item7=jpg - Jpeg Image
+lbAssoc.Item8=jp2 - Jpeg 2000 Image
+lbAssoc.Item9=png - Portable Network Graphic
+lbAssoc.Item10=gif - Graphics Interchange Format
+lbAssoc.Item11=tif - Tagged Image File Format
+lbAssoc.Item12=xpm - Xpm Image
+lbAssoc.Item13=apng - Animated Graphics Interchange Format
+lbAssoc.Item14=svg - Scalable Vector Graphics
+lbAssoc.Item15=webp - Web Picture Format
+lbAssoc.Item16=ifx - IcoFX Image
+cbContext.Caption=Add 'Open with icofx' to Windows Explorer's context menu
+btnAll.Caption=All
+btnNone.Caption=None
+btnIcons.Caption=Icons
+btnCursors.Caption=Cursors
+lblSteps.Caption=Maximum History Steps:
+grpHistPath.Caption= History Path 
+cbAlpha.Caption=Apply filter to alpha channel
+cbDithering.Caption=Dither 1, 4 and 8 bit images
+cbOptimPal.Caption=Use optimized palette for 4 bit images
+cbCompress.Caption=Compress 256x256 images for Windows Vista
+cbExportAlpha.Caption=Export transparency information when exporting to image
+grpSaveOptions.Caption= Save Options 
+cbJpegOptions.Caption=Use default jpeg settings
+cbJpeg2000Options.Caption=Use default jpeg2000 settings
+cbGifOptions.Caption=Use default gif/apng settings
+btnDefJpeg.Caption=Default...
+btnDefJpeg2000.Caption=Default...
+btnDefGif.Caption=Default...
+grpPreview.Caption= Preview Background Color 
+rbTransparent.Caption=Transparent
+rbSolid.Caption=Solid Color
+grpBox.Caption= View Box 
+lblViewBoxCol.Caption=View Box Color
+cbShowBox.Caption=Show View Box
+cbUpdate.Caption=Check for updates at startup
+grpType.Caption= File Types to Show 
+cbDir.Caption=Folders
+cbImg.Caption=Images (ico, cur, bmp, jpg, png ...)
+cbRes.Caption=Binary (exe, dll, icl, cul ...)
+grpThumbnails.Caption= Thumbnails 
+lblThumbSize.Caption=Size
+cbShowName.Caption=Show file names
+grpColorIndicates.Caption= Color Indicates 
+rbMask.Caption=Masked Area
+rbSel.Caption=Selected Area
+grpColor.Caption= Color 
+lblOpac.Caption=Opacity
+lblSize.Caption=Grid Size
+lblGrid.Caption=Grid Color
+lblColors.Caption=Custom Colors
+cmbSize.Item0=Small
+cmbSize.Item1=Medium
+cmbSize.Item2=Large
+cmbGrid.Item0=Custom
+cmbGrid.Item2=Extra Light
+cmbGrid.Item3=Light
+cmbGrid.Item4=Medium
+cmbGrid.Item5=Dark
+cmbGrid.Item7=Red
+cmbGrid.Item8=Orange
+cmbGrid.Item9=Green
+cmbGrid.Item10=Blue
+cmbGrid.Item11=Purple
+lblStyle.Caption=Style
+lblColor.Caption=Color
+cmbStyle.Item0=Solid
+cmbStyle.Item1=Dashed Lines
+cmbStyle.Item2=Dots
+lblOpacity.Caption=Opacity
+cbShowLines.Caption=Show helper lines
+lblLineSpacing.Caption=Spacing
+lblLineColor.Caption=Color
+lblLineOpacity.Caption=Opacity
+grpPalette.Caption= Palette 
+lblMsgPal.Caption=If the palette is about to be changed:
+cmbPalette.Item0=Change the palette
+cmbPalette.Item1=Don't change the palette
+cmbPalette.Item2=Automatic
+cmbPalette.Item3=Prompt for action
+grpPaste.Caption= Paste 
+lblMsgPaste.Caption=If the pasted image is larger than the canvas:
+cmbPaste.Item0=Resize the image
+cmbPaste.Item1=Crop the image (top-left corner)
+cmbPaste.Item2=Show the Advanced Import dialog
+cmbPaste.Item3=Prompt for action
+grpImport.Caption= Import 
+lblMsgImport.Caption=If the imported  image is larger than the canvas:
+cmbImport.Item0=Resize the image
+cmbImport.Item1=Crop the image (top-left corner)
+cmbImport.Item2=Show the Advanced Import dialog
+cmbImport.Item3=Prompt for action
+Label1.Caption=Image Interpolation:
+cbWelcome.Caption=Show welcome window at startup
+cbPortable.Caption=Store settings in application folder (portable)
+cmbInterpolation.Item0=Nearest Neighbour
+cmbInterpolation.Item1=Bilinear
+cmbInterpolation.Item2=High Quality Bilinear
+cmbInterpolation.Item3=Bicubic
+cmbInterpolation.Item4=High Quality Bicubic
+cbPreviewAdjustments.Caption=Preview the adjustment of images
+cbAntialias.Caption=Antialiasing
+cbClipbrd.Caption=Clear the clipboard when exiting
+cbSelTrans.Caption=Preserve the transparency of the selection
+cbDragAndDrop.Caption=Selection can be dragged between windows
+grpAutoZoom.Caption= Automatic Zoom 
+rbFixed.Caption=Fixed Zoom
+rbFit.Caption=Fit to screen
+grpThumbColor.Caption= Thumbnail Background Color 
+rbThumbTransp.Caption=Transparent
+rbThumbSolid.Caption=Solid Color
+grpOpen.Caption= Open 
+lblMsgOpen.Caption=If you are opening an image: 
+cmbOpen.Item0=Open as an image
+cmbOpen.Item1=Create a Windows icon from the image
+cmbOpen.Item2=Create a Mac icon from the image
+cmbOpen.Item3=Create a cursor from the image
+cmbOpen.Item4=Create an animated cursor from the image
+cmbOpen.Item5=Prompt for action
+cbAdjustAll.Caption=Apply adjustments to all layers/images
+grpLanguages.Caption= Languages 
+grpToolbar.Caption= Image Strip 
+lblMsgToolbar.Caption=If you are opening an image strip: 
+cmbToolbar.Item0=Open as an image strip
+cmbToolbar.Item1=Prompt for action
+lblDPI.Caption=DPI (png/jpg)
+btnDPI.Caption=Reset
+grpLink.Caption= Shortcut 
+lblMsgLink.Caption=If you are opening a shortcut (*.lnk): 
+cmbLink.Item0=Open the target
+cmbLink.Item1=Open the icon
+cmbLink.Item2=Prompt for action
+cbTaskbarPreview.Caption=Show image previews in the Windows taskbar
+cbUpdateAuto.Caption=One click automatic update
+grpGroups.Caption= Image Groups 
+lblGroups.Caption=If you are opening images with similar names: 
+cmbGroups.Item0=Combine to Windows icon
+cmbGroups.Item1=Combine to Macintosh icon
+cmbGroups.Item2=Combine to cursor
+cmbGroups.Item3=Don't combine
+cmbGroups.Item4=Prompt for action
+cbFitInView.Caption=Fit in view SVG content when importing
+grpCursor.Caption= Cursor 
+cbCursor.Caption=Show tool thumbnail in cursor
+grpAppearance.Caption= Appearance 
+lblColorTheme.Caption=Color Theme
+lblTheme.Caption=Icon Theme
+cmbColorTheme.Item0=Windows Default
+cmbColorTheme.Item1=Windows 10 Dark
+cmbColorTheme.Item2=Windows 10 White
+cmbColorTheme.Item3=Windows 10 Amoled
+lblRestart.Caption=Changes will be applied after restart
+lblUI.Caption=User Interface
+cmbUI.Item0=Menu + Toolbar
+cmbUI.Item1=Simplified Ribbon
+cbBrushPreview.Caption=Show brush preview under the cursor
+cbWebpOptions.Caption=Use default webp settings
+btnDefWebp.Caption=Default...
+cbContextConvert.Caption=Add 'Convert to icon' to Windows Explorer's context menu
+
+[frmSaveWorkspace]
+frmSaveWorkspace.Caption=Save Workspace
+lblName.Caption=Name
+btnCancel.Caption=Cancel
+btnSave.Caption=Save
+
+[frmShortcuts]
+frmShortcuts.Caption=Keyboard Shortcuts
+lblShort.Caption=Shortcut for
+cbType.Item0=Menu
+cbType.Item1=Panels
+cbType.Item2=Tools
+btnOK.Caption=Save
+btnCancel.Caption=Cancel
+
+[frmGradientEdit]
+frmGradientEdit.Caption=Gradient Editor
+lblName.Caption=Name
+grpColor.Caption= Color 
+lblColor.Caption=Color
+lblPosition.Caption=Position
+lblAlpha.Caption=Alpha
+btnDelete.Caption=Delete
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+rbCustom.Caption=Custom color
+rbFG.Caption=Foreground color
+rbBG.Caption=Background color
+
+[frmSwatchEdit]
+frmSwatchEdit.Caption=Swatch Edit
+lblName.Caption=Name
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+
+[frmBrushEdit]
+frmBrushEdit.Caption=Brush Editor
+lblName.Caption=Name
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+grpPreview.Caption= Preview 
+TabSheet2.Caption=Brush
+lblSize.Caption=Size
+lblAngle.Caption=Angle
+lblSpacing.Caption=Spacing
+lblWidth.Caption=Width
+lblHeight.Caption=Height
+lblMask.Caption=Mask
+TabSheet3.Caption=Shape Dynamics
+lblSizeJitter.Caption=Size Jitter
+lblAngleJitter.Caption=Angle Jitter
+lblWidthJitter.Caption=Width Jitter
+lblHeightJitter.Caption=Height Jitter
+TabSheet1.Caption=Color Dynamics
+lblHue.Caption=Hue Jitter
+lblSaturation.Caption=Saturation Jitter
+lblBrightness.Caption=Brightness Jitter
+lblOpacityJitter.Caption=Opacity Jitter
+TabSheet4.Caption=Scattering
+lblPosX.Caption=X Position Jitter
+lblPosY.Caption=Y Position Jitter
+dlgOpen.Title=Open Mask
+PreviewButton.Hint=Preview
+
+[frmNewCursor]
+frmNewCursor.Caption=New Cursor
+grpColors.Caption= Colors 
+rb1Bit.Caption=2 Colors (1 bit)
+rb4Bit.Caption=16 Colors (4 bits)
+rb8Bit.Caption=256 Colors (8 bits)
+rb24Bit.Caption=True Color (24 bits)
+rb32Bit.Caption=True Color + Alpha Channel (32 bits)
+grpSize.Caption= Size 
+lblHeight.Caption=Height:
+lblWidth.Caption=Width:
+cbSquare.Caption=Square
+rbCustom.Caption=Custom:
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+grpType.Caption= Cursor Type 
+rbCur.Caption=Static Cursor (CUR)
+rbAni.Caption=Animated Cursor (ANI)
+grpImages.Caption= Source Image 
+cbFromImage.Caption=Create the new image from the selected image:
+
+[frmNewImage]
+frmNewImage.Caption=New Image
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+grpBackground.Caption= Background Color 
+rbTrans.Caption=Transparent
+rbWhite.Caption=White
+rbFG.Caption=Foreground Color
+rbBG.Caption=Background Color
+rbCustomCol.Caption=Custom
+grpSize.Caption= Size 
+lblHeight.Caption=Height:
+lblWidth.Caption=Width:
+rbStandard.Caption=Standard
+cbSquare.Caption=Square
+rbCustom.Caption=Custom
+
+[frmNewWinIcon]
+frmNewWinIcon.Caption=New Windows Icon
+grpImages.Caption= Source Image 
+cbFromImage.Caption=Create the new image from the selected image:
+grpColors.Caption= Colors 
+rb1Bit.Caption=2 Colors (1 bit)
+rb4Bit.Caption=16 Colors (4 bits)
+rb8Bit.Caption=256 Colors (8 bits)
+rb24Bit.Caption=True Color (24 bits)
+rb32Bit.Caption=True Color + Alpha Channel (32 bits)
+grpSize.Caption= Size 
+lblHeight.Caption=Height:
+lblWidth.Caption=Width:
+cbSquare.Caption=Square
+rbCustom.Caption=Custom:
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+
+[frmNewMacIcon]
+frmNewMacIcon.Caption=New Mac Icon
+grpImages.Caption= Source Image 
+cbFromImage.Caption=Create the new image from the selected image:
+grpFormats.Caption= Recommended Image Formats 
+grpDeprecated.Caption= Other Image Formats 
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+
+[frmNewToolbar]
+frmNewToolbar.Caption=New Toolbar Image Strip
+grpColors.Caption= Colors 
+rb4Bit.Caption=16 Colors (4 bits)
+rb8Bit.Caption=256 Colors (8 bits)
+rb24Bit.Caption=True Color (24 bits)
+rb32Bit.Caption=True Color + Alpha Channel (32 bits)
+grpSize.Caption= Size 
+lblHeight.Caption=Height:
+lblWidth.Caption=Width:
+cbSquare.Caption=Square
+rbCustom.Caption=Custom:
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+
+[frmToolZoom]
+lblZoom.Caption=Zoom Level
+lblView.Caption=View
+actZoomOrig.Caption=Actual Pixels
+actZoomOrig.Hint=Actual Pixels
+actZoomFit.Caption=Fit To Screen
+actZoomFit.Hint=Fit To Screen
+actZoomIn.Caption=Zoom In
+actZoomIn.Hint=Zoom In
+actZoomOut.Caption=Zoom Out
+actZoomOut.Hint=Zoom Out
+
+[frmToolBrush]
+lblSize.Caption=Size
+lblMode.Caption=Mode
+btnAirBrush.Hint=Airbrush
+
+[frmToolPick]
+lblRed.Caption=R:
+lblGreen.Caption=G:
+lblBlue.Caption=B:
+lblHue.Caption=H:
+lblSat.Caption=S:
+lblBright.Caption=B:
+lblAlpha.Caption=A:
+cbIgnoreAlpha.Caption=Ignore Alpha
+cbPrevTool.Caption=Select previous tool
+
+[frmToolRuler]
+lblXPos.Caption=X:
+lblYPos.Caption=Y:
+lblWidth.Caption=W:
+lblHeight.Caption=H:
+lblAngle.Caption=Angle:
+lblLength.Caption=Length:
+
+[frmToolGradient]
+btnLinear.Hint=Linear Gradient
+btnRadial.Hint=Radial Gradient
+btnReflected.Hint=Reflected Gradient
+btnDiamond.Hint=Diamond Gradient
+lblMode.Caption=Mode
+lblOpac.Caption=Opacity
+btnAngle.Hint=Angle Gradient
+lblCenter.Caption=Center
+lblX.Caption=X
+lblY.Caption=Y
+lblFocus.Caption=Focus Scales
+lblFocusX.Caption=X
+lblFocusY.Caption=Y
+cbReverse.Caption=Reverse
+
+[frmRegister]
+frmRegister.Caption=IcoFX Registration
+lblRegister.Caption=Register IcoFX
+lblName.Caption=Name:
+lblKey.Caption=Registration key:
+lblText.Caption=If you have purchased IcoFX, please enter or copy / paste the registration key you were given. Doing so will unlock the software in the following ways:
+lblLimitation1.Caption=- The save feature will be always enabled
+lblLimitation2.Caption=- Support for toolbar image strips
+lblLimitation3.Caption=- Add more than 5 icons to an icon library
+lblLimitation4.Caption=- Batch process more than 5 files
+lblLimitation5.Caption=- Execute more than 5 script commands
+btnBuy.Caption=Purchase Now
+btnCancel.Caption=Cancel
+btnRegister.Caption=Register
+btnPaste.Hint=Paste
+
+[frmExtract]
+frmExtract.Caption=Extract
+lblType.Caption=Resource Type
+btnCancel.Caption=Cancel
+btnExtract.Caption=Extract
+btnEdit.Caption=Edit Library
+cmbType.Item0=Icons
+cmbType.Item1=Cursors
+
+[frmLayerProperties]
+frmLayerProperties.Caption=Layer Properties
+grpLayer.Caption= Layer 
+lblName.Caption=Name
+cbVisible.Caption=Visible
+grpBlending.Caption= Blending 
+lblMode.Caption=Mode
+lblOpacity.Caption=Opacity
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+
+[frmQuestion]
+btnOk.Caption=OK
+cbDefault.Caption=Use this setting as default
+
+[frmLanguageSelect]
+frmLanguageSelect.Caption=Select Language
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+
+[frmToolSel]
+btnNewSel.Hint=New selection
+btnAddSel.Hint=Add to selection
+btnSubSel.Hint=Subtract from selection
+cbAntiAlias.Caption=Anti-alias
+cbFixed.Caption=Fixed Size
+lblWidth.Caption=W
+lblHeight.Caption=H
+btnLink.Hint=Link
+
+[frmToolMagicWand]
+btnNewSel.Hint=New selection
+btnAddSel.Hint=Add to selection
+btnSubSel.Hint=Subtract from selection
+lnlTolerance.Caption=Tolerance
+
+[frmContrast]
+frmContrast.Caption=Brightness and Contrast
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+cbPreview.Caption=Preview
+lblBrightness.Caption=Brightness
+lblContrast.Caption=Contrast
+cbLegacy.Caption=Use legacy algorithm
+
+[frmBevel]
+frmBevel.Caption=Bevel
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+cbPreview.Caption=Preview
+lblAngle.Caption=Angle
+lblSize.Caption=Size
+lblElevation.Caption=Elevation
+lblSoften.Caption=Soften
+lblHighOpac.Caption=Highlight Opacity
+lblShadOpac.Caption=Shadow Opacity
+colHighlight.Hint=Highlight Color
+colShadow.Hint=Shadow Color
+
+[frmHue]
+frmHue.Caption=Hue and Saturation
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+cbPreview.Caption=Preview
+lblHue.Caption=Hue
+lblSaturation.Caption=Saturation
+lblBrightness.Caption=Brightness
+grpMethod.Caption= Method 
+rbMaster.Caption=Master
+rbRange.Caption=Range
+rbColorize.Caption=Colorize
+
+[frmCurves]
+frmCurves.Caption=Curves
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+cbPreview.Caption=Preview
+btnReset.Caption=Reset
+lblChannel.Caption=Channel
+cmbChannel.Item0=RGB
+cmbChannel.Item1=Red
+cmbChannel.Item2=Green
+cmbChannel.Item3=Blue
+
+[frmLevels]
+frmLevels.Caption=Levels
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+cbPreview.Caption=Preview
+grpInput.Caption= Input Levels 
+grpOutput.Caption= Output Levels 
+lblChannel.Caption=Channel
+cmbChannel.Item0=RGB
+cmbChannel.Item1=Red
+cmbChannel.Item2=Green
+cmbChannel.Item3=Blue
+
+[frmColBalance]
+frmColBalance.Caption=Color Balance
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+cbPreview.Caption=Preview
+lblCyan.Caption=Cyan
+lblMagenta.Caption=Magenta
+lblYellow.Caption=Yellow
+lblRed.Caption=Red
+lblGreen.Caption=Green
+lblBlue.Caption=Blue
+
+[frmNoise]
+frmNoise.Caption=Add Noise
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+cbPreview.Caption=Preview
+lblAmount.Caption=Amount
+cbMono.Caption=Monochromatic
+
+[frmGaussBlur]
+frmGaussBlur.Caption=Gaussian Blur
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+cbPreview.Caption=Preview
+lblRadius.Caption=Radius
+
+[frmFilter]
+frmFilter.Caption=Custom Filter
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+cbPreview.Caption=Preview
+lblDiv.Caption=Divided by:
+lblOffset.Caption=Offset:
+lblSample.Caption=Samples
+cmbSample.Item0=None
+cmbSample.Item1=Emboss Color
+cmbSample.Item2=Emboss Light
+cmbSample.Item3=Emboss Medium
+cmbSample.Item4=Emboss Dark
+cmbSample.Item5=Blur
+cmbSample.Item6=Blur Soft
+cmbSample.Item7=Blur More
+cmbSample.Item8=Motion Blur
+cmbSample.Item9=Sharpen
+cmbSample.Item10=Sharpen More
+cmbSample.Item11=Sharpen Less
+cmbSample.Item12=Sharpen Directional
+cmbSample.Item13=Find Edges (Vertical)
+cmbSample.Item14=Find Edges (Horizontal)
+cmbSample.Item15=Enhance Edges
+cmbSample.Item16=Detect Edges
+cmbSample.Item17=Edges Strong
+cmbSample.Item18=Edges Weak
+cmbSample.Item19=Contour
+cmbSample.Item20=Average
+cmbSample.Item21=Glow
+cmbSample.Item22=Waggle
+cmbSample.Item23=Pattern
+cmbSample.Item24=Paint Dark
+cmbSample.Item25=Paint Bright
+cmbSample.Item26=Shake
+cmbSample.Item27=Shake Less
+cmbSample.Item28=Pale
+cmbSample.Item29=Scene
+btnReset.Caption=Reset
+btnLoad.Caption=Load...
+btnSave.Caption=Save...
+dlgOpen.Title=Load Filter
+dlgSave.Title=Save Filter
+
+[frmAuthor]
+frmAuthor.Caption=Author and Name
+lblName.Caption=Name
+lblAuthor.Caption=Author
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+btnSave.Hint=Save author as default
+
+[frmHotSpot]
+frmHotSpot.Caption=Cursor Hot Spot
+lblX.Caption=X Position
+lblY.Caption=Y Position
+btnHotSpot.Hint=Find Hot Spot
+PngSpeedButton1.Hint=Top Left
+PngSpeedButton2.Hint=Left Center
+PngSpeedButton3.Hint=Bottom Left
+PngSpeedButton4.Hint=Top Center
+PngSpeedButton5.Hint=Center
+PngSpeedButton6.Hint=Bottom Center
+PngSpeedButton7.Hint=Top Right
+PngSpeedButton8.Hint=Right Center
+PngSpeedButton9.Hint=Bottom Right
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+
+[frmTest]
+frmTest.Caption=Cursor Test
+btnCancel.Caption=Close
+grpDraw.Caption= Test Draw 
+grpControl.Caption= Test Controls 
+Button1.Caption=Button
+RadioButton1.Caption=Radio 1
+RadioButton2.Caption=Radio 2
+CheckBox1.Caption=Check Box
+
+[frmSnapshot]
+frmSnapshot.Caption=Snapshot
+btnCancel.Caption=Close
+btnOK.Caption=Save
+grpType.Caption= Snapshot Type 
+rbAll.Caption=All opened images
+rbSelected.Caption=Selected image
+grpFormats.Caption= Formats 
+cb32bit.Caption=32 bits
+cb8Bit.Caption=8 bits
+cb24Bit.Caption=24 bits
+cb4Bit.Caption=4/1 bits
+grpBackground.Caption= Background 
+rbColor.Caption=Color
+rbTransparent.Caption=Transparent
+grpText.Caption= Text 
+cbText.Caption=Show text
+grpWatermark.Caption= Watermark 
+cbWatermark.Caption=Show watermark
+dlgSave.Title=Save Snapshot
+dlgOpen.Title=Open
+lblFont.Caption=Font
+lblSize.Caption=Size
+cbAntialias.Caption=Antialiasing
+
+
+[frmTranspCol]
+frmTranspCol.Caption=Make Color Transparent
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+cbPreview.Caption=Preview
+lblColor.Caption=Color
+lblTolerance.Caption=Tolerance
+lblSoft.Caption=Soft Edges
+btnPick.Hint=Color Picker
+
+[frmOpacity]
+frmOpacity.Caption=Opacity
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+cbPreview.Caption=Preview
+lblOpacity.Caption=Opacity
+
+[frmResEditor]
+frmResEditor.Caption=Resource Editor
+btnClose.Caption=Close
+dlgAdd.Title=Add
+dlgSave.Title=Save Resource
+dlgOpen.Title=Open Resource
+actOpen.Caption=Open
+actOpen.Hint=Open
+actSave.Caption=Save
+actSave.Hint=Save
+actAdd.Caption=Add
+actAdd.Hint=Add
+actDelete.Caption=Delete
+actDelete.Hint=Delete
+actChange.Caption=Change
+actChange.Hint=Change
+actProperties.Caption=Properties...
+actProperties.Hint=Properties...
+
+[frmResProp]
+frmResProp.Caption=Resource Properties
+lblLanguage.Caption=Language
+lblResName.Caption=Resource Name
+lblName.Caption=Name
+btnOK.Caption=OK
+btnCancel.Caption=Cancel
+
+[frmToolFill]
+lnlTolerance.Caption=Tolerance
+
+[frmShadow]
+frmShadow.Caption=Shadow
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+cbPreview.Caption=Preview
+lblType.Caption=Type
+rbDrop.Caption=Drop Shadow
+rbInner.Caption=Inner Shadow
+lblSize.Caption=Size
+lblOpacity.Caption=Opacity
+lblColor.Caption=Color
+lblPosX.Caption=X Position
+lblPosY.Caption=Y Position
+
+[frmResize]
+frmResize.Caption=Resize
+lblWidth.Caption=Width:
+lblHeight.Caption=Height:
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+rbCustom.Caption=Custom:
+cbSquare.Caption=Square
+rbPercentage.Caption=Percentage:
+lblResample.Caption=Resample
+cmbInterpolation.Item0=Nearest Neighbour
+cmbInterpolation.Item1=Bilinear
+cmbInterpolation.Item2=High Quality Bilinear
+cmbInterpolation.Item3=Bicubic
+cmbInterpolation.Item4=High Quality Bicubic
+
+[frmToolCrop]
+lblLeft.Caption=Left
+lblTop.Caption=Top
+lblWidth.Caption=Width
+lblHeight.Caption=Height
+btnCrop.Caption=Crop
+btnReset.Caption=Reset
+
+[frmImageToIco]
+frmImageToIco.Caption=Windows Icon From Image
+lblMsg.Caption=Include the following image formats in the icon:
+lblVista.Caption=Windows Vista
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+btnAll.Caption=All
+btnRecomended.Caption=Recommended
+btnNone.Caption=None
+grpOther.Caption= Other formats 
+grpSharpen.Caption= Sharpen 
+cbSharpen.Caption=Sharpen after resize
+
+[frmImageToMacIco]
+frmImageToMacIco.Caption=Macintosh Icon From Image
+lblMsg.Caption=Include the following image formats in the icon:
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+btnRecomended.Caption=Recommended
+btnNone.Caption=None
+grpFormats.Caption= Recommended Image Formats 
+grpDeprecated.Caption= Other Image Formats 
+grpSharpen.Caption= Sharpen 
+cbSharpen.Caption=Sharpen after resize
+
+[frmImageManager]
+frmImageManager.Caption=Image Manager
+btnSelectAll.Hint=Select All
+tbThumbnailSize.Hint=Thumbnail Size
+btnDelete.Caption=Delete
+lblFrameRate.Caption=Frame Rate (sec)
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+
+[frmImport]
+frmImport.Caption=Import
+btnZoomOut.Hint=Zoom Out
+btnZoomIn.Hint=Zoom In
+btnFit.Hint=Fit To Window
+btnOriginal.Hint=Actual Pixels
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+grpTransparency.Caption= Transparency 
+btnColorPicker.Hint=Color Picker
+rbOriginal.Caption=As is
+rbLeftBottom.Caption=Left bottom pixel
+rbCustomColor.Caption=Custom Color
+grpAction.Caption= Action 
+rbResize.Caption=Resize the image
+rbCrop.Caption=Crop the image
+grpSelection.Caption= Selection Size 
+rbFixed.Caption=Fixed
+rbCustom.Caption=Custom
+
+[frmFadeout]
+frmFadeout.Caption=Fadeout
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+cbPreview.Caption=Preview
+lblFillType.Caption=Fill type
+btnVertical.Hint=Vertical
+btnHorizontal.Hint=Horizontal
+btnDiag1.Hint=Diagonal (Bottom-Top)
+btnDiag2.Hint=Diagonal (Top-Bottom)
+btnDiamond.Hint=Diamond
+btnRadial.Hint=Radial
+Gradient.Caption=Gradient
+btnReset.Caption=Reset
+grpColor.Caption= Color 
+lblPosition.Caption=Position
+lblOpac.Caption=Opacity
+btnDelete.Caption=Delete
+
+[frmRotate]
+frmRotate.Caption=Rotate
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+cbPreview.Caption=Preview
+lblDirection.Caption=Direction
+lblAngle.Caption=Angle
+lblPosX.Caption=Center X
+lblPosY.Caption=Center Y
+rbRight.Caption=Right
+rbLeft.Caption=Left
+
+[frmOptionsJpeg2000]
+frmOptionsJpeg2000.Caption=Jpeg2000 Options
+lblQuality.Caption=Quality
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+cbDefault.Caption=Use this setting as default
+btnReset.Caption=Reset
+cbLossless.Caption=Lossless compression
+
+[frmOptionsWebp]
+frmOptionsWebp.Caption=Webp Options
+lblQuality.Caption=Quality
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+cbDefault.Caption=Use this setting as default
+btnReset.Caption=Reset
+cbLossless.Caption=Lossless compression
+
+[frmOptionsGif]
+frmOptionsGif.Caption=Gif/Apng Options
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+cbDefault.Caption=Use this setting as default
+cbRepeat.Caption=Repeat animation forever
+
+[frmOptionsJpeg]
+frmOptionsJpeg.Caption=Jpeg Options
+lblQuality.Caption=Quality
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+cbDefault.Caption=Use this setting as default
+btnReset.Caption=Reset
+
+[frmProgress]
+frmProgress.Caption=Progress
+lblText.Caption=Extracting frames...
+btnCancel.Caption=Cancel
+
+[frmFrames]
+frmFrames.Caption=Frames
+btnCancel.Caption=Cancel
+btnExtract.Caption=Extract
+btnExtractToAni.Caption=Extract to ANI
+btnOpen.Caption=Open Animation
+
+[frmToolLine]
+lblWidth.Caption=Width
+lblMode.Caption=Mode
+lblStyle.Caption=Style
+cmbStyle.Hint=Dash style of the line
+cmbStart.Hint=Start cap of line style
+cmbEnd.Hint=End cap of line style
+
+[frmToolRect]
+lblWidth.Caption=Outline Width
+lblRadius.Caption=Radius
+btnLinear.Hint=Linear Gradient
+btnRadial.Hint=Radial Gradient
+btnReflected.Hint=Reflected Gradient
+btnDiamond.Hint=Diamond Gradient
+btnSolid.Hint=Solid Fill
+btnOutline.Hint=Outline only
+btnOutlineFill.Hint=Outline and fill
+btnFill.Hint=Fill only
+lblMode.Caption=Mode
+lblOpac.Caption=Opacity
+lblOutline.Caption=Outline
+lblFill.Caption=Fill
+lblAngle.Caption=Gradient Angle
+lblCenter.Caption=Center
+lblX.Caption=X
+lblY.Caption=Y
+lblFocus.Caption=Focus Scales
+lblFocusX.Caption=X
+lblFocusY.Caption=Y
+cbReverse.Caption=Reverse
+
+[frmToolEraser]
+lblSize.Caption=Size
+lblHardness.Caption=Hardness
+lblTolerance.Caption=Tolerance
+
+[frmBatchResult]
+frmBatchResult.Caption=Batch Process
+btnCancel.Caption=Cancel
+
+[frmToolText]
+lblText.Caption=Text
+lblFont.Caption=Font
+lblSize.Caption=Size
+lblStyle.Caption=Style
+btnBold.Hint=Bold
+btnItalic.Hint=Italic
+btnUnderline.Hint=Underline
+btnStrike.Hint=Strikethrough
+lblAngle.Caption=Angle
+btnApply.Caption=Apply
+btnCancel.Caption=Cancel
+actNone.Caption=None
+actSmall.Caption=Small
+actMedium.Caption=Medium
+actLarge.Caption=Large
+actExtraLarge.Caption=Extra Large
+actHuge.Caption=Huge
+actNoStyle.Caption=No Style
+
+[frmBatchProcess]
+frmBatchProcess.Caption=Batch Process
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+grpFiles.Caption= Files to process 
+lblNumber.Caption=File Number
+btnAdd.Caption=Add...
+btnRemove.Caption=Remove
+btnClear.Caption=Clear
+grpDir.Caption= Output 
+lblOutput.Caption=File format
+lblFolder.Caption=Output Folder
+grpPlay.Caption= Play 
+lblAction.Caption=Action
+grpBack.Caption= Merge Image 
+cbBack.Caption=Background
+cbFore.Caption=Foreground
+cbMask.Caption=Delete
+
+[frmBatchIcon]
+frmBatchIcon.Caption=Batch Create Icons or Cursors
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+grpFiles.Caption= Files to process 
+lblNumber.Caption=File Number
+btnAdd.Caption=Add...
+btnRemove.Caption=Remove
+btnClear.Caption=Clear
+grpDir.Caption= Output 
+lblOutput.Caption=File format
+lblFolder.Caption=Output Folder
+grpFormats.Caption= Image formats 
+btnSelRecommended.Caption=Recommended
+btnSelNone.Caption=None
+btnAddFormat.Caption=Add Format
+btnDelFormat.Caption=Delete Format
+btnHotSpot.Caption=Hot Spot
+cbSharpen.Caption=Sharpen after resize
+grpBack.Caption= Merge Image 
+cbBack.Caption=Background
+cbFore.Caption=Foreground
+
+[frmBatchGroup]
+frmBatchGroup.Caption=Batch Group Images to Icons
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+grpFiles.Caption= Files to process 
+lblNumber.Caption=File Number
+btnAdd.Caption=Add...
+btnRemove.Caption=Remove
+btnClear.Caption=Clear
+grpDir.Caption= Output 
+lblOutput.Caption=File format
+lblFolder.Caption=Output Folder
+
+[frmBatchImage]
+frmBatchImage.Caption=Batch Create Images
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+grpFiles.Caption= Files to process 
+lblNumber.Caption=File Number
+btnAdd.Caption=Add...
+btnRemove.Caption=Remove
+btnClear.Caption=Clear
+grpDir.Caption= Output 
+lblOutput.Caption=File format
+lblFolder.Caption=Output Folder
+
+[frmBatchExtract]
+frmBatchExtract.Caption=Batch Extract Icons or Cursors
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+grpFiles.Caption= Files to process 
+lblNumber.Caption=File Number
+btnAdd.Caption=Add...
+btnRemove.Caption=Remove
+btnClear.Caption=Clear
+grpDir.Caption= Output 
+lblOutput.Caption=Resource type
+lblFolder.Caption=Output Folder
+
+[frmNewCol]
+frmNewCol.Caption=New Image Size
+lblWidth.Caption=Width
+lblHeight.Caption=Height
+lblBitCount.Caption=Bit Count
+cmbBitCount.Item0=32 Bits
+cmbBitCount.Item1=24 Bits
+cmbBitCount.Item2=8 Bits
+cmbBitCount.Item3=4 Bits
+cmbBitCount.Item4=1 Bit
+cbSquare.Caption=Square
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+
+[frmBatchHotSpot]
+frmBatchHotSpot.Caption=Cursor Hot Spot
+lblX.Caption=X Position
+lblY.Caption=Y Position
+btnHotSpot.Hint=Find Hot Spot
+PngSpeedButton1.Hint=Top Left
+PngSpeedButton2.Hint=Left Center
+PngSpeedButton3.Hint=Bottom Left
+PngSpeedButton4.Hint=Top Center
+PngSpeedButton5.Hint=Center
+PngSpeedButton6.Hint=Bottom Center
+PngSpeedButton7.Hint=Top Right
+PngSpeedButton8.Hint=Right Center
+PngSpeedButton9.Hint=Bottom Right
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+lblUnit.Caption=Unit
+cmbUnit.Item0=Pixels (px)
+cmbUnit.Item1=Percent (%)
+
+[frmToolBlur]
+lblSize.Caption=Size
+lblLevel.Caption=Level
+
+[frmToolMovePix]
+lblAlign.Caption=Align
+btnLeft.Hint=Left
+btnCentHoriz.Hint=Center Horizontal
+btnRight.Hint=Right
+btnTop.Hint=Top
+btnCentVert.Hint=Center Vertical
+btnBottom.Hint=Bottom
+btnCenter.Hint=Center
+cbTransform.Caption=Show transform controls
+
+[frmToolPencil]
+lblSize.Caption=Size
+lblMode.Caption=Mode
+btnCircle.Hint=Circle brush shape
+btnSquare.Hint=Square brush shape
+
+[frmExpandCanvas]
+frmExpandCanvas.Caption=Expand Canvas
+grpCurrent.Caption= Current Size 
+lblWidth.Caption=Width
+lblHeight.Caption=Height
+grpNew.Caption= New Size 
+lblWidth2.Caption=Width
+lblHeight2.Caption=Height
+Label1.Caption=Left
+Label2.Caption=Top
+Label3.Caption=Right
+Label4.Caption=Bottom
+cbEqual.Caption=Expand sides equally
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+
+[frmTrim]
+frmTrim.Caption=Trim
+grpColor.Caption= Color 
+grpTrim.Caption= Trim 
+rbTransp.Caption=Transparent
+rbTop.Caption=Top Left
+rbBottom.Caption=Bottom Right
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+
+[frmTrial]
+frmTrial.Caption=Trial Version
+btnReg.Caption=Register...
+btnPurchase.Caption=Purchase Now
+btnClose.Caption=Close
+
+[frmIconCustomization]
+frmIconCustomization.Caption=Icon Customization
+TabSheet1.Caption=Folders
+grpFolder.Caption= Folder 
+btnBrowse.Hint=Browse
+grpIcon.Caption= Icon 
+btnCustomize.Caption=Change Icon...
+btnRemove.Caption=Remove Customization
+btnOK.Caption=OK
+btnCancel.Caption=Cancel
+btnApply.Caption=Apply
+
+[frmReplaceColor]
+frmReplaceColor.Caption=Replace Color
+grpSelection.Caption= Selection 
+lblColor.Caption=Color
+lblFuz.Caption=Fuzziness
+btnPick.Hint=Color Picker
+rbSelection.Caption=Selection
+rbImage.Caption=Image
+grpRepl.Caption= Replacement 
+lblResult.Caption=Result
+btnPickRes.Hint=Color Picker
+lblHue.Caption=Hue
+lblSaturation.Caption=Saturation
+lblBrightness.Caption=Brightness
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+cbPreview.Caption=Preview
+
+[frmReplacePixels]
+frmReplacePixels.Caption=Replace Pixels
+lblOldCol.Caption=Old Color
+lblNewCol.Caption=New Color
+lblTol.Caption=Tolerance
+actNew.Caption=New
+actNew.Hint=New
+actLoad.Caption=Open
+actLoad.Hint=Open
+actSave.Caption=Save
+actSave.Hint=Save
+actAdd.Caption=Add
+actAdd.Hint=Add
+actDelete.Caption=Delete
+actDelete.Hint=Delete
+btnPick.Hint=Color Picker
+btnPickRes.Hint=Color Picker
+dlgSave.Title=Save
+dlgOpen.Title=Open
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+cbPreview.Caption=Preview
+
+[frmToobarTranspCol]
+frmToobarTranspCol.Caption=Transparent Color
+lblColor.Caption=Transparent Color
+lblWarning.Caption=The color is used in the image
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+
+[frmActions]
+frmActions.Caption=Actions
+actPlay.Caption=Play
+actPlay.Hint=Play
+actRecord.Caption=Record
+actRecord.Hint=Record
+actNewAction.Caption=New Action...
+actNewAction.Hint=New Action...
+actDuplicate.Caption=Duplicate
+actDuplicate.Hint=Duplicate
+actEdit.Caption=Edit
+actEdit.Hint=Edit
+actDelete.Caption=Delete
+actDelete.Hint=Delete
+actClear.Caption=Clear Actions
+actClear.Hint=Clear Actions
+actReset.Caption=Reset Actions
+actReset.Hint=Reset Actions
+actLoad.Caption=Load Actions...
+actLoad.Hint=Load Actions...
+actSave.Caption=Save Actions...
+actSave.Hint=Save Actions...
+dlgSave.Title=Save Actions
+dlgOpen.Title=Open Actions
+
+[frmStyles]
+frmStyles.Caption=Styles
+dlgOpen.Title=Open Styles
+dlgSave.Title=Save Styles
+actNew.Caption=New Style...
+actNew.Hint=New Style...
+actSmallThumb.Caption=Small Thumbnail
+actMediumThumb.Caption=Medium Thumbnail
+actLargeThumb.Caption=Large Thumbnail
+actSmallList.Caption=Small List
+actMediumList.Caption=Medium List
+actLargeList.Caption=Large List
+actTextOnly.Caption=Text Only
+actClear.Caption=Clear Styles
+actDelete.Caption=Delete Style
+actDelete.Hint=Delete Style
+actEdit.Caption=Edit Style...
+actEdit.Hint=Edit Style...
+actSave.Caption=Save Styles...
+actSave.Hint=Save Styles...
+actLoad.Caption=Load Styles...
+actLoad.Hint=Load Styles...
+actDefault.Caption=Reset Styles
+actDuplicate.Caption=Duplicate Style
+actDuplicate.Hint=Duplicate Style
+actReorder.Caption=Allow reordering
+
+[frmStyleEdit]
+frmStyleEdit.Caption=Style Editor
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+grpPreview.Caption= Preview 
+lbCategory.Item0=Blending Options
+lbCategory.Item1=Bevel
+lbCategory.Item2=Stroke
+lbCategory.Item3=Inner Shadow
+lbCategory.Item4=Inner Glow
+lbCategory.Item5=Color Overlay
+lbCategory.Item6=Gradient Overlay
+lbCategory.Item7=Pattern Overlay
+lbCategory.Item8=Outer Glow
+lbCategory.Item9=Drop Shadow
+lblBlendingOpacity.Caption=Opacity
+lblBlendingMode.Caption=Blend Mode
+lblFillOpac.Caption=Fill Opacity
+lblBevelAngle.Caption=Angle
+lblBevelSize.Caption=Size
+lblBevelElevation.Caption=Elevation
+lblBevelSoften.Caption=Soften
+lblBevelHighOpac.Caption=Highlight Opacity
+lblBevelShadOpac.Caption=Shadow Opacity
+colBevelHighlight.Hint=Highlight Color
+colBevelShadow.Hint=Shadow Color
+btnStrokeGradientFill.Hint=Gradient
+btnStrokePatternFill.Hint=Pattern
+btnStrokeSolidFill.Hint=Color
+lblStrokeColor.Caption=Color
+lblStrokeFillType.Caption=Fill Type
+lblStrokeGradient.Caption=Gradient
+lblStrokeOpac.Caption=Opacity
+lblStrokePattern.Caption=Pattern
+lblStrokeWidth.Caption=Size
+lblStrokeOffX.Caption=X Offset
+lblStrokeOffY.Caption=Y Offset
+lblStrokePos.Caption=Position
+cmbStrokePos.Item0=Outside
+cmbStrokePos.Item1=Inside
+cmbStrokePos.Item2=Center
+btnDiamond.Hint=Diamond Gradient
+btnLinear.Hint=Linear Gradient
+btnRadial.Hint=Radial Gradient
+btnReflected.Hint=Reflected Gradient
+btnAngle.Hint=Angle Gradient
+btnReverse.Hint=Reverse
+lblAngle.Caption=Angle
+lblCenter.Caption=Center
+lblCenterX.Caption=X
+lblCenterY.Caption=Y
+lblFocusX.Caption=X
+lblFocus.Caption=Focus Scales
+lblFocusY.Caption=Y
+lblScale.Caption=Scale
+dlgOpen.Title=Open Pattern
+btnStrokeRemove.Hint=Remove Stroke
+btnStrokeAdd.Hint=Add Stroke
+lblInnerOpac.Caption=Opacity
+lblInnerSize.Caption=Size
+lblInnerColor.Caption=Color
+lblInnerPosX.Caption=X Position
+lblInnerPosY.Caption=Y Position
+lblInnerSoften.Caption=Soften
+lblInnerGlowOpac.Caption=Opacity
+lblInnerGlowSize.Caption=Size
+lblInnerGlowCol.Caption=Color
+lblInnerGlowSoften.Caption=Soften
+lblColorColor.Caption=Color
+lblColorMode.Caption=Blend Mode
+lblColorOpac.Caption=Opacity
+lblGradientOpac.Caption=Opacity
+lblGradientMode.Caption=Blend Mode
+lblGradient.Caption=Gradient
+lblPatternOpac.Caption=Opacity
+lblPatternMode.Caption=Blend Mode
+lblPattern.Caption=Pattern
+lblGlowOpac.Caption=Opacity
+lblGlowSize.Caption=Size
+lblGlowCol.Caption=Color
+lblGlowSoften.Caption=Soften
+lblShadowOpac.Caption=Opacity
+lblShadowSize.Caption=Size
+lblShadowColor.Caption=Color
+lblShadowPosX.Caption=X Position
+lblShadowPosY.Caption=Y Position
+lblShadowSoften.Caption=Soften
+
+[frmGradientDropDown]
+actSmallThumb.Caption=Small Thumbnail
+actMediumThumb.Caption=Medium Thumbnail
+actLargeThumb.Caption=Large Thumbnail
+actSmallList.Caption=Small List
+actMediumList.Caption=Medium List
+actLargeList.Caption=Large List
+actTextOnly.Caption=Text Only
+
+[frmColorDropDown]
+btnFGColor.Caption=Foreground Color
+btnBGColor.Caption=Background Color
+pnlQuick.Caption=Quick Colors
+btnCustomColor.Caption=Custom Color...
+btnColPicker.Caption=Color Picker
+pnlRecent.Caption=Recent Colors
+
+[frmWelcome]
+frmWelcome.Caption=Welcome
+lblRecent.Caption=Recent
+lblOpen.Caption=Open
+lblNew.Caption=New
+lblStartup.Caption=Show this window at startup
+msgOpen=Open an existing file
+msgExtract=Extract icons from files
+msgImg=New Image
+msgIco=New Windows Icon
+msgIcns=New Mac Icon
+msgCur=New Cursor
+msgTool=Toolbar Image Strip
+msgImgIco=Windows Icon from Image
+msgImgIcns=Mac Icon from Image
+msgImgCur=Cursor from Image
+msgMobile=Mobile Icon from Image
+msgIcl=New Icon Library
+msgCul=New Cursor Library
+
+[frmScript]
+frmScript.Caption=Run Script
+actNew.Caption=New
+actNew.Hint=New
+actOpen.Caption=Open
+actOpen.Hint=Open
+actSave.Caption=Save
+actSave.Hint=Save
+actUndo.Caption=Undo
+actUndo.Hint=Undo
+actRedo.Caption=Redo
+actRedo.Hint=Redo
+actRun.Caption=Run
+actRun.Hint=Run
+actHelp.Caption=Help
+actHelp.Hint=Help
+btnHelp.Hint=Help
+actComment.Caption=Toggle Comment
+actComment.Hint=Toggle comment
+actDelLine.Caption=Delete Line
+actDelLine.Hint=Delete line
+cmbThemes.Item0=Dark
+cmbThemes.Item1=Light
+cmbThemes.Item2=Solarized Dark
+cmbThemes.Item3=Solarized Light
+cmbThemes.Item4=Matrix
+
+[frmNewMobileIconSize]
+frmNewMobileIconSize.Caption=New Size
+lblWidth.Caption=Width
+lblHeight.Caption=Height
+lblName.Caption=Name
+lblNote.Caption=Note
+lblPadding.Caption=Padding (%)
+edtPadding.Hint=Top Right Bottom Left
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+
+[frmMobileIcon]
+frmMobileIcon.Caption=Create Mobile Icon
+grpImage.Caption= Image 
+grpSizes.Caption= Sizes 
+lblPrview.Caption=Preview
+grpOutput.Caption=Output
+cbOverwrite.Caption=Overwrite files
+cbSharpen.Caption=Sharpen
+cbBorder.Caption=Show border
+dlgOpen.Title=Open Image
+actAdd.Caption=Add
+actAdd.Hint=Add
+actDel.Caption=Delete
+actDel.Hint=Delete
+actDelPreset.Caption=Delete Preset
+actDelPreset.Hint=Delete Preset
+btnDelPreset.Hint=Delete Preset
+actDuplicatePreset.Caption=Duplicate Preset
+actDuplicatePreset.Hint=Duplicate Preset
+btnDuplicatePreset.Hint=Duplicate Preset
+actNewPreset.Caption=New Preset
+actNewPreset.Hint=New Preset
+btnNewPreset.Hint=New Preset
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+
+[frmWhiteBalance]
+frmWhiteBalance.Caption=White Balance
+lblTemperature.Caption=Temperature
+lblTint.Caption=Tint
+cbPreview.Caption=Preview
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+
+[frmRoundCorners]
+frmRoundCorners.Caption=Corner Rounding
+lblMargin.Caption=Margin
+lblCorner.Caption=Corner size and shape
+btnLink.Hint=Link
+edtRadiusTopLeft.Hint=Radius
+edtRadiusTopRight.Hint=Radius
+edtRadiusBottomRight.Hint=Radius
+edtRadiusBottomLeft.Hint=Radius
+edtExtraTopLeft.Hint=Roundness
+edtExtraTopRight.Hint=Roundness
+edtExtraBottomRight.Hint=Roundness
+edtExtraBottomLeft.Hint=Roundness
+cmbStyleTopLeft.Hint=Style
+cmbStyleTopRight.Hint=Style
+cmbStyleBottomRight.Hint=Style
+cmbStyleBottomLeft.Hint=Style
+msgTopLeft=Top left corner:
+msgTopRight=Top right corner:
+msgBottomRight=Bottom right corner:
+msgBottomLeft=Bottom left corner:
+cbPreview.Caption=Preview
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+
+[frmIconMixer]
+frmIconMixer.Caption=Icon Mixer
+btnAdd.Caption=Add to Collection
+btnExport.Caption=Export Current
+grpOverlay.Caption= Overlay 
+btnBottomLeft.Hint=Bottom left
+btnTopLeft.Hint=Top left
+btnTopRight.Hint=Top right
+btnBottomRight.Hint=Bottom right
+cbColorizeOverlay.Caption=Colorize
+btnReplaceColOverlay.Caption=Configure...
+cbReplaceColOverlay.Caption=Replace Colors
+grpSymbol.Caption= Symbol 
+btnFlipH.Hint=Flip horizontally
+btnFlipV.Hint=Flip vertically
+btnRotateLeft.Hint=Rotate left
+btnRotateRight.Hint=Rotate right
+cbColorizeSymbol.Caption=Colorize
+btnReplaceColSymbol.Caption=Configure...
+cbReplaceColSymbol.Caption=Replace Colors
+lblCollection.Caption=Collection
+lblIconSets.Caption=Icon Sets
+lblSymbols.Caption=Symbols
+lblOverlays.Caption=Overlays
+edtSearch.TextHint=Search... (Ctrl + F)
+dlgSave.Title=Save Collection
+dlgOpen.Title=Open Collection
+actNew.Caption=New
+actOpen.Caption=Open
+actSave.Caption=Save
+actAdd.Caption=Add
+actDel.Caption=Delete
+actExport.Caption=Export Selected
+actExportAll.Caption=Export All
+actPurchase.Caption=Purchase Icon Sets
+actSelectAll.Caption=Select All
+actDeselectAll.Caption=Deselect All
+actBottomRight.Caption=Position Bottom Right
+actBottomLeft.Caption=Position Bottom Left
+actTopLeft.Caption=Position Top Left
+actTopRight.Caption=Position Top Right
+actNone.Caption=Position None
+actSetOverlay.Caption=Update Overlay
+actUpdateColor.Caption=Update Color
+actFlipH.Caption=Flip Horizontally
+actFlipV.Caption=Flip Vertically
+actSymbolColorize.Caption=Update Color
+actDuplicate.Caption=Duplicate
+actRename.Caption=Rename
+Symbol1.Caption=Symbol
+Overlay1.Caption=Overlay
+grpColorMode.Caption= Color Mode 
+cbDarkMode.Caption=Dark Mode
+cbMonochrome.Caption=Monochrome
+actUpdateColorMode.Caption=Update Color Mode
+
+[frmIconMixerExport]
+frmIconMixerExport.Caption=Export
+grpFormats.Caption= Formats 
+grpSizes.Caption= Sizes 
+btnAdd.Hint=Add
+btnRemove.Hint=Remove
+edtSize.TextHint=ex. 32
+grpDir.Caption= Output 
+lblFolder.Caption=Output Folder
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+
+[frmIconMixerLicense]
+frmIconMixerLicense.Caption=Icon Set License
+btnClose.Caption=Close
+
+[frmColorSelector]
+frmColorSelector.Caption=Select Color
+cmbMode.Item0=Hue
+cmbMode.Item1=Saturation
+cmbMode.Item2=Brightness
+cmbMode.Item3=Red
+cmbMode.Item4=Green
+cmbMode.Item5=Blue
+lblNew.Caption=New
+lblCurrent.Caption=Current
+lblRGB.Caption=RGB
+lblHSB.Caption=HSB
+lblHTML.Caption=HTML
+btnCopy.Hint=Copy HTML Color
+cbWeb.Caption=Web colors only
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+btnColorPicker.Hint=Color Picker
+btnSwatches.Hint=Swatches
+btnAddSwatch.Hint=Add to Swatches
+
+[frmShapes]
+frmShapes.Caption=Shapes
+dlgOpen.Title=Open Shapes
+dlgSave.Title=Save Shapes
+actNew.Caption=New Shape...
+actNew.Hint=New Shape...
+actSmallThumb.Caption=Small Thumbnail
+actMediumThumb.Caption=Medium Thumbnail
+actLargeThumb.Caption=Large Thumbnail
+actSmallList.Caption=Small List
+actMediumList.Caption=Medium List
+actLargeList.Caption=Large List
+actTextOnly.Caption=Text Only
+actClear.Caption=Clear Shapes
+actDelete.Caption=Delete Shape
+actDelete.Hint=Delete Shape
+actEdit.Caption=Edit Shape...
+actEdit.Hint=Edit Shape...
+actSave.Caption=Save Shapes...
+actSave.Hint=Save Shapes...
+actLoad.Caption=Load Shapes...
+actLoad.Hint=Load Shapes...
+actDefault.Caption=Reset Shapes
+actDuplicate.Caption=Duplicate Shape
+actDuplicate.Hint=Duplicate Shape
+actReorder.Caption=Allow reordering
+
+[frmShapeEdit]
+frmShapeEdit.Caption=Shape Editor
+lblName.Caption=Name
+lblPath.Caption=Path Data
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+
+[frmToolShapes]
+lblAngle.Caption=Angle
+lblFlip.Caption=Flip
+btnFlipH.Hint=Flip horizontally
+btnFlipV.Hint=Flip vertically
+imgStyle.Hint=Style
+imgShape.Hint=Shape
+btnApply.Caption=Apply
+btnCancel.Caption=Cancel
+actNoStyle.Caption=No Style
+
+[frmInfo]
+lblInit.Caption=Initializing icon sets. Please wait.
+
+
+[DLG]
+Warning=Warning
+Error=Error
+Information=Information
+Confirm=Confirm
+Yes=&Yes
+No=&No
+OK=OK
+Cancel=Cancel
+Abort=&Abort
+Retry=&Retry
+Ignore=&Ignore
+All=&All
+NoToAll=N&o to All
+YesToAll=Yes to &All
+Help=&Help
+Close=&Close
+
+[MSG]
+msgUntitled=Untitled
+msgCustom=Custom
+msgTranslation=Language file translation
+
+# Check version text
+msgVersionNO=You have the latest version of IcoFX.
+msgVersionYES=A free update is available.
+msgVersionError=Failed to check version. - Timed out.
+msgVersionYESFreeUpgrade=A free upgrade is available.
+msgVersionYESUpgrade=An upgrade is available.
+msgWhatIsNew=What's new
+msgDownload=Download
+msgInstall=Install at exit
+
+
+# Workspace text
+msgDelWorkspace=Delete workspace %s ?
+msgSaveWorkspace=Workspace %s already exists. Overwrite?
+
+# Swatches text
+msgSaveFile=The file %s already exists. Overwrite?
+msgClearSwatches=Delete all swatches?
+msgClearOnLoad=Clear existing swatches before load?
+msgDefaultLoad=Existing swatches will be lost. Continue?
+
+# Gradients text
+msgClearGradients=Delete all gradients?
+msgClearGrdOnLoad=Clear existing gradients before load?
+msgDefaultGrdLoad=Existing gradients will be lost. Continue?
+
+# Brushes text
+msgClearBrushes=Delete all brushes?
+msgClearBrOnLoad=Clear existing brushes before load?
+msgDefaultBrLoad=Existing brushes will be lost. Continue?
+
+# message dialog 
+msgCapWarning=Warning
+msgCapError=Error
+msgCapInformation=Information
+msgCapConfirmation=Confirm
+msgCapCustom=Custom
+
+# Shortcut texts
+msgShortcut=Shortcut
+msgMenuCmd=Menu Command
+msgPanelCmd=Panel Command
+msgToolCmd=Tool Panel Command
+msgInUse=The shortcut %s1 is already in use by "%s2"!
+msgBadShortcut="%s1" is an invalid shortcut. A shortcut must include Ctrl and/or Alt and/or an F-key!
+msgBadToolShortcut="%s1" is an invalid shortcut. A Tool shortcut must contain only a single character!
+msgFileName=IcoFX Shortcuts
+msgSrtTitle=IcoFX 3 Keyboard Shortcuts
+msgSrtCommand=Command
+msgStrMenu=Application Menus
+msgStrPanel=Panel Menus
+msgStrTool=Tools
+msgApplyShortcut=Apply changes before summarizing?
+
+# File type related text
+msgNoFile=File %s1 not found!
+msgInvalidPal=Invalid palette file!
+msgPal=Microsoft Palette File
+msgAct=Adobe Color Table
+msgAco=Swatches
+msgAllPal=All supported palette files
+msgInvalidGrd=Invalid gradient file!
+msgGrd=Gradients
+msgInvalidBrs=Invalid brush file!
+msgBrs=Brushes
+msgInvalidRep=Invalid color replace file!
+msgRep=Color Replace
+msgAlreadyOpen=The file %s is already open!
+msgInvalidIfx=Invalid IcoFX image file!
+msgIco=Windows Icon
+msgCur=Windows Cursor
+msgAni=Animated Cursor
+msgBmp=Bitmap Image
+msgJpg=Jpeg Image
+msgXpm=Xpm Image
+msgJpg2000=Jpeg 2000 Image
+msgPng=Portable Network Graphic
+msgApng=Animated Portable Network Graphic
+msgGif=Gif Image
+msgIfx=IcoFX Image
+msgTiff=Tagged Image File Format
+msgMacBinary=Macintosh Binary
+msgMacIcon=Macintosh Icon
+msgWin16Binary=Windows 16 bit Binary
+msgWin32Binary=Windows Binary
+msgAcf=Custom filter
+msgIcl=Icon Library
+msgCul=Cursor Library
+msgAll=All Formats
+msgAllImg=All Image Formats
+msgSvg=Scalable Vector Graphics
+msgExe=Executable
+msgOcx=OCX Files
+msgDll=Dynamic Link Library
+msgBin=MacBin files
+msgApple=AppleSingle or AppleDouble files
+msgRes=Macintosh Resource Fork
+msgFxs=Script icofx
+msgWebp=Web Picture Format
+
+# palette 
+msgManyColors=The palette contains %i1 colors, some colors were ignored.
+msgFewColors=The palette was containing only %i1 colors.
+
+# blend modes
+msgBlendNormal=Normal
+msgBlendMultiply=Multiply
+msgBlendAdditive=Additive
+msgBlendBurn=Color Burn
+msgBlendDodge=Color Dodge
+msgBlendReflect=Reflect
+msgBlendGlow=Glow
+msgBlendOverlay=Overlay
+msgBlendDifference=Difference
+msgBlendNegation=Negation
+msgBlendLighten=Lighten
+msgBlendDarken=Darken
+msgBlendScreen=Screen
+msgBlendExclusion=Exclusion
+msgBlendHue=Hue
+msgBlendSat=Saturation
+msgBlendColor=Color
+msgBlendBrightness=Brightness
+msgBlendSoftLight=Soft Light
+msgBlendHardLight=Hard Light
+msgBlendPinLight=Pin Light
+msgFreeze=Freeze
+msgHeat=Heat
+msgSubtractive=Subtractive
+
+# IO texts
+msgInvalidFormat=Invalid File Format!
+msgBigImg=Image ignored: Too large (%i1x%i2)
+msgNotSupported=%i1 bit images are not supported!
+msgFileNotFound=The file %s1 does not exist!
+msgNoBlack=The palette does not include the color Black.
+msgEntryLimit=Too many entries in the icon.
+msgUnknownImage=The following unknown images were found inside the icon: %s1. If you save the icon these images will be lost!
+msgNoImage=Invalid image inside the icon.
+msgNoImgWin=The icon/cursor doesn't contain images that are compatible with the Windows icon/cursor format!
+msgNoImgMac=The icon doesn't contain images that are compatible with the Macintosh icon format!
+msgIgnore=The following unsupported images were not saved:
+msgErrorSave=Cannot save file %s!
+msgErrorOpen=Cannot open file %s!
+
+# register 
+msgUnreg=Unregistered Version
+msgReg=Registered to %s
+
+# extract
+msgNotMacBinary=Invalid MacBinary file.
+msgNotAppleSingle=Invalid AppleSingle or AppleDouble file.
+msgNotResFork=Invalid resource fork.
+msgIcon=Icon %i1
+msgCursor=Cursor %i1
+msgNoIcon=The file does not contain icons.
+msgNoCursor=The file does not contain cursors.
+
+#Explorer texts
+msgDelFavorite=The folder %s1 does not exist. Remove it from favorites?
+
+#Layer texts
+msgLayer=Layer
+
+#History texts
+msgHistDir=Select a folder for storing history files.
+msgOutDir=Select the output folder.
+msgDiskFull=Cannot save history to %s1! |Disk is full.
+
+# Import
+msgImport=Import
+msgImportMsg=The imported image is larger than the canvas!
+msgOp1=Resize the image
+msgOp2=Crop (top-left corner)
+msgOp3=Show the Import dialog for more options
+msgNewIcoImg=New Icon Image
+msgNewCurImg=New Cursor Image
+
+# Paste
+msgPaste=Paste
+msgPasteMsg=The pasted image is larger than the canvas!
+
+# Open
+msgOpen=Open
+msgOpenMsg=You are about to open an image!
+msgOpenOp1=Open as an image
+msgOpenOp2=Create a Windows icon from the image
+msgOpenOp3=Create a cursor from the image
+msgOpenOp4=Create an animated cursor from the image
+msgOpenOp5=Create a Mac icon from the image
+
+#Palette
+msgPalette=Palette Change
+msgPaletteMsg=The palette is about to be changed!
+msgPalOp1=Change the palette (recommended for 8 bit images)
+msgPalOp2=Don't change the palette (recommended for 4 or 1 bit images)
+msgPalOp3=Automatic
+
+msgLastEffect=Last Effect (%s1)
+
+msgSnapshotError=Error creating snapshot. Try closing a few windows.
+msgNotUnique=The image size is already used or not supported!
+msgDeleteImg=Delete the selected image(s)? (This cannot be undone!)
+msgImage=Image
+msgFrame=Frame
+
+# res editor
+msgNeutral=Language Neutral
+msgSave=Save changes to %s1 ?
+msgResNameExists=The resource name and language pair already exists!
+msgSaveSuccess=File saved successfully!
+msgErrorSaveRes=Cannot save file. Make sure it is not read-only or compressed.
+msgNo32Bit=The file %s1 is not a 32 or 64 bit Windows file!
+msgConvert=16 bit libraries are deprecated. Convert to 32 bit library?
+
+msgResIco=Icon Resource Editor
+msgResCur=Cursor Resource Editor
+
+# Batch process
+msgBit=1 bit
+msgBits= %i1 bits
+msgCol=The format %s1 already exists in the list.
+msgWarning=Warning: 
+msgSuccess=Success: 
+msgError=Error: 
+msgProcessing=Processing: 
+msgSuccessReason=File created successfully
+msgErrOpen=Cannot open file
+msgErrSave=Cannot save file
+msgNoIcon=The file does not contain icons
+msgNoCur=The file does not contain cursors
+msgCancelled=Operation cancelled!
+msgComplete=Operation completed!
+msgIgnored=Some images were ignored!
+msgClose=Close
+
+msgTransp=Transparent
+
+msgDrop=Drop Selection
+msgDuplicate=Cannot duplicate file!
+msgTrial=You can't add more than 5 files in the trial version.
+msgTrial2=Save will be disabled after %i1 starts.
+msgTrial3=The trial period has expired.| All the save features have been disabled.| Do you want to purchase the full version?
+msgTrial4=The trial period has expired. All the save features have been disabled.
+msgTrial5=IcoFX is successfully registered.|Thank you for registering your copy.
+#msgTrial6=Save will be disabled after %i1 days.
+msgTrial6=TRIAL INFORMATION    The trial period of IcoFX expires in %i1 days.
+msgTrial7=(Trial)
+msgTrial8=You can't execute more than 5 commands in the trial version.
+
+# languages
+msgDownloadError=Error downloading language file!
+msgDownloadSuccess=Download successful. Change language to %s1 ?
+msgNoUpdate=You already have the latest version of the language file.
+
+# color combo box colors
+msgColor.Item0=Custom...
+msgColor.Item1=Black
+msgColor.Item2=Maroon
+msgColor.Item3=Green
+msgColor.Item4=Olive
+msgColor.Item5=Navy
+msgColor.Item6=Purple
+msgColor.Item7=Teal
+msgColor.Item8=Gray
+msgColor.Item9=Silver
+msgColor.Item10=Red
+msgColor.Item11=Lime
+msgColor.Item12=Yellow
+msgColor.Item13=Blue
+msgColor.Item14=Fuchsia
+msgColor.Item15=Aqua
+msgColor.Item16=White
+msgColor.Item17=Money Green
+msgColor.Item18=Sky Blue
+msgColor.Item19=Cream
+msgColor.Item20=Medium Gray
+
+msgNoUndo=This operation was cancelled because it would create an invalid image.
+msgImageSize=Image Size
+msgCanvasSize=Canvas Size
+msgNewIcl=New Icon Library
+msgNewCul=New Cursor Library
+msgInvalidInstall=IcoFX was not correctly installed. Please reinstall it.
+msgNoSelection=There is no selection to subtract from.
+
+# customization
+msgNotCust=Cannot customize folder!
+msgRestart=Restart Windows to see the customization.
+msgNotRemCust=Cannot remove customization!
+
+msgNoLayer=This image format does not support layers. Layers will be merged in the saved image.
+
+msgTypeIco=Icon
+msgTypeImg=Image
+msgTypeCur=Cursor
+msgTypeAni=Animation
+msgTypeBar=Image Strip
+
+msgTolerance=Tolerance
+
+msgOpenToolbar=Open Toolbar Image Strip
+msgOpenToolbarMsg=You are about to open an image strip!
+msgOpenToolbarOp1=Open as an image strip
+msgOpenToolbarOp2=Do not open as an image strip
+msgOpenToolbarDef=Always open as an image strip
+
+msgCannotAdd=Cannot add additional image.
+
+msgOpenLink=Open Shortcut
+msgOpenLinkMsg=You are about to open a shortcut (*.lnk)!
+msgOpenLinkOp1=Open the target
+msgOpenLinkOp2=Open the icon
+
+# actions
+msgActionName=Action Name
+msgActions=Actions
+msgAction=Action
+msgClearActOnLoad=Clear existing actions before load?
+msgClearActions=Delete all actions?
+msgDefaultActLoad=Existing actions will be lost. Continue?
+msgInvalidAct=Invalid action file!
+
+msgDefault=Default
+msgDelShortcut=Delete shortcut %s ?
+msgSaveShortcut=Shortcut %s already exists. Overwrite?
+msgSaveShortcutCaption=Save Shortcuts
+msgSummarize=Save Shortcut Summary
+
+msgSample=Sample
+
+msgBorderColor=Border Color
+msgGridColor=Grid Color
+
+# Styles text
+msgClearStyles=Delete all styles?
+msgClearStyleOnLoad=Clear existing styles before load?
+msgDefaultStyleLoad=Existing styles will be lost. Continue?
+msgInvalidStyle = Invalid style file!
+msgStyles=Styles
+msgStroke=Stroke
+msgNoStyle=No Style
+
+#icon sizes
+msgIcsName=Name
+msgIcsNameUsed=Name is already in use!
+msgIcsDel=Delete %s?
+msgIcsNoDel=Cannot delete %s!
+
+msgDeleteImg2=Deleteing images cannot be undone. Continue?
+msgDelImg=The icon contains images that are not compatible with the Macintosh icon format. These images will be deleted! Continue?
+msgDelImg2=The icon contains images that are not compatible with the Windows icon format. These images will be deleted! Continue?
+msgNotSupported=%i1 bit images are not supported!
+
+msgOpenGroup=Open Image Group
+msgOpenGroupMsg=You are about to open images with similar names!
+msgOpenGroupOp1=Combine to Windows icon
+msgOpenGroupOp2=Combine to Macintosh icon
+msgOpenGroupOp3=Combine to cursor
+msgOpenGroupOp3=Don't combine
+
+#script errors
+msgErrorUnknownCmd=Unknown command
+msgErrorUnknownParam=Unknown parameter name
+msgErrorUnknownParamVal=Invalid parameter value
+msgErrorFileName=Command does not need file names
+msgErrorMissingParam=Missing parameter
+
+msgResDel=Deleted
+msgResNoDel=Cannot delete
+msgResAdd=Added
+msgResNoAdd=Cannot add
+msgSaveResName=Saving resource names...
+msgResNoSave=Nothing to save.
+msgSleep=Waiting %i1 milliseconds...
+msgSleepSec=Waiting %i1 seconds...
+
+msgSelected=Selected Image
+msgCreateMobile=Creating mobile icons: 
+msgContext=Open with icofx
+msgContextConvert=Convert to icon
+
+Flat=Flat
+Fluent=Fluent
+Monochrome=Monochrome
+
+msgInvalidColl=Invalid icon collection file!
+
+msgDelIcons=Delete selected icons?
+msdDuplicateIcons=Duplicate selected icons?
+msgCollection=IcoFX Icon Collection
+msgIconsNr=(%i1 icons)
+msgIconNr=(%i1 icon)
+msgOverlays=Overlays
+msgExportRes=Export Result
+
+# shapes
+msgShp=Shapes
+msgInvalidShp=Invalid shapes file!
+msgClearShapes=Delete all shapes?
+msgClearShpOnLoad=Clear existing shapes before load?
+msgDefaultShpLoad=Existing shapes will be lost. Continue?
+
+msgDomainName=Domain name
+msgFaviconError=Cannot extract favicon!

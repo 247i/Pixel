@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitelist>
+	<site id="frmMain.LMDDockSite1">
+		<zone kind="HORZ">
+			<zone kind="PANEL" id="frmMain.pnlTools" visible="1" floatwidth="56" floatheight="369" size="32" dsize="0.0251572327044025"/>
+			<zone kind="PANEL" id="frmMain.pnlWork" visible="1" floatwidth="382" floatheight="450" size="1020" dsize="0.80188679245283" isspace="1"/>
+			<zone kind="VERT" size="220" dsize="0.172955974842767">
+				<zone kind="TABS" activetab="0" size="187" dsize="0.218849840255591">
+					<zone kind="PANEL" id="frmMain.pnlPreview" visible="1" floatwidth="216" floatheight="128"/>
+					<zone kind="PANEL" id="frmMain.pnlInfo" visible="1" floatwidth="240" floatheight="120"/>
+					<zone kind="PANEL" id="frmMain.pnlHistogram" visible="1" floatwidth="240" floatheight="120"/>
+				</zone>
+				<zone kind="TABS" activetab="0" size="171" dsize="0.199680511182109">
+					<zone kind="PANEL" id="frmMain.pnlColors" visible="1" floatwidth="216" floatheight="111"/>
+					<zone kind="PANEL" id="frmMain.pnlSwatches" visible="1" floatwidth="226" floatheight="139"/>
+					<zone kind="PANEL" id="frmMain.pnlPalette" visible="1" floatwidth="246" floatheight="147"/>
+				</zone>
+				<zone kind="TABS" activetab="0" size="498" dsize="0.5814696485623">
+					<zone kind="PANEL" id="frmMain.pnlLayers" visible="1" floatwidth="242" floatheight="322"/>
+					<zone kind="PANEL" id="frmMain.pnlHistory" visible="1" floatwidth="150" floatheight="316"/>
+					<zone kind="PANEL" id="frmMain.pnlActions" visible="1" floatwidth="242" floatheight="322"/>
+				</zone>
+			</zone>
+		</zone>
+	</site>
+	<site floating="1" left="66" top="119" width="297" height="486">
+		<zone kind="PANEL" id="frmMain.pnlExplorer" visible="0" floatwidth="212" floatheight="486"/>
+	</site>
+	<site floating="1" left="69" top="121" width="226" height="181">
+		<zone kind="PANEL" id="frmMain.pnlBrushes" visible="0" floatwidth="226" floatheight="181"/>
+	</site>
+	<site floating="1" left="67" top="122" width="228" height="185">
+		<zone kind="PANEL" id="frmMain.pnlGradients" visible="0" floatwidth="228" floatheight="185"/>
+	</site>
+	<site floating="1" left="69" top="121" width="226" height="181">
+		<zone kind="PANEL" id="frmMain.pnlStyles" visible="0" floatwidth="226" floatheight="181"/>
+	</site>		
+	<site floating="1" left="69" top="121" width="226" height="181">
+		<zone kind="PANEL" id="frmMain.pnlShapes" visible="0" floatwidth="226" floatheight="181"/>
+	</site>			
+	<toolbars MainToolbarVisible="1" LocalToolbarVisible="1" StatusbarVisible="1" ToolPropertiesVisible="1"/>
+</sitelist>

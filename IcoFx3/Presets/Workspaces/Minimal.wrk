@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitelist>
+	<site id="frmMain.LMDDockSite1">
+		<zone kind="HORZ">
+			<zone kind="PANEL" id="frmMain.pnlTools" visible="1" floatwidth="56" floatheight="369" size="32" dsize="0.0250783699059561"/>
+			<zone kind="PANEL" id="frmMain.pnlWork" visible="1" floatwidth="382" floatheight="450" size="1244" dsize="0.974921630094044" isspace="1"/>
+		</zone>
+	</site>
+	<site floating="1" left="46" top="123" width="297" height="486">
+		<zone kind="PANEL" id="frmMain.pnlExplorer" visible="0" floatwidth="212" floatheight="486"/>
+	</site>
+	<site floating="1" left="44" top="122" width="212" height="152">
+		<zone kind="PANEL" id="frmMain.pnlPreview" visible="0" floatwidth="212" floatheight="152"/>
+	</site>
+	<site floating="1" left="44" top="123" width="206" height="136">
+		<zone kind="PANEL" id="frmMain.pnlInfo" visible="0" floatwidth="206" floatheight="136"/>
+	</site>
+	<site floating="1" left="44" top="123" width="206" height="136">
+		<zone kind="PANEL" id="frmMain.pnlHistogram" visible="0" floatwidth="206" floatheight="136"/>
+	</site>	
+	<site floating="1" left="42" top="122" width="218" height="117">
+		<zone kind="PANEL" id="frmMain.pnlColors" visible="0" floatwidth="218" floatheight="117"/>
+	</site>
+	<site floating="1" left="44" top="122" width="226" height="141">
+		<zone kind="PANEL" id="frmMain.pnlSwatches" visible="0" floatwidth="226" floatheight="141"/>
+	</site>
+	<site floating="1" left="42" top="123" width="226" height="135">
+		<zone kind="PANEL" id="frmMain.pnlPalette" visible="0" floatwidth="226" floatheight="135"/>
+	</site>
+	<site floating="1" left="40" top="122" width="224" height="163">
+		<zone kind="PANEL" id="frmMain.pnlBrushes" visible="0" floatwidth="224" floatheight="163"/>
+	</site>
+	<site floating="1" left="44" top="121" width="222" height="171">
+		<zone kind="PANEL" id="frmMain.pnlGradients" visible="0" floatwidth="222" floatheight="171"/>
+	</site>
+	<site floating="1" left="42" top="122" width="222" height="252">
+		<zone kind="PANEL" id="frmMain.pnlLayers" visible="0" floatwidth="222" floatheight="252"/>
+	</site>
+	<site floating="1" left="40" top="119" width="216" height="208">
+		<zone kind="PANEL" id="frmMain.pnlHistory" visible="0" floatwidth="216" floatheight="208"/>
+	</site>
+	<site floating="1" left="69" top="121" width="226" height="181">
+		<zone kind="PANEL" id="frmMain.pnlStyles" visible="0" floatwidth="226" floatheight="181"/>
+	</site>		
+	<site floating="1" left="41" top="118" width="221" height="321">
+		<zone kind="PANEL" id="frmMain.pnlActions" visible="0" floatwidth="221" floatheight="321"/>
+	</site>	
+	<site floating="1" left="44" top="121" width="226" height="181">
+		<zone kind="PANEL" id="frmMain.pnlShapes" visible="0" floatwidth="226" floatheight="181"/>
+	</site>		
+	<toolbars MainToolbarVisible="1" LocalToolbarVisible="1" StatusbarVisible="1" ToolPropertiesVisible="1"/>
+</sitelist>

@@ -1,0 +1,1 @@
+<IcoFXActions ver="1.0"><Act name="None"></Act><Act name="Disabled Image"><Cmd Type="6" Name="actGrayscale"/><Cmd Type="1" Brightness="25" Contrast="-30" Legacy="0"/></Act><Act name="Hot Image"><Cmd Type="2" Brightness="-15" Hue="0" HueType="0" RangeEnd="359" RangeStart="0" Saturation="40"/><Cmd Type="1" Brightness="0" Contrast="30" Legacy="0"/></Act></IcoFXActions>
