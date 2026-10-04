@@ -1,2 +1,3 @@
 *.pyc
 /GIMP/Data/var/cache
+/ScreenToGif
