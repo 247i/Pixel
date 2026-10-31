@@ -1,3 +1,5 @@
 *.pyc
 /GIMP/Data/var/cache
 /ScreenToGif
+/PicPick/language
+/PicPick/licenses
